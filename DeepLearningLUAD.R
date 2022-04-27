@@ -111,8 +111,8 @@ View(pred_dataset )
 pred_dataset = round(test_predictions)
 
 #Display table with all predicted and actual values
-#final_statusLUADLit=cbind (real, pred_dataset )
-#colnames(final_statusLUADLit) = c("Real","Predição")
+final_statusLUADLit=cbind (real, pred_dataset )
+colnames(final_statusLUADLit) = c("Real","Predição")
 
 library(caret)
 cfm=caret::confusionMatrix(table(final_statusLUADLit$Predição, final_statusLUADLit$Real))
@@ -318,18 +318,12 @@ cfm=caret::confusionMatrix(table(final_statusLUAD14$Predição, final_statusLUAD
 print(cfm)
 
 # ROC curve
-#library(PRROC)
-#PRROC_obj <- roc.curve(scores.class0 = final_status$Predição, weights.class0=final_status$Real,curve=TRUE)
-#plot(PRROC_obj)
-
 library(pROC)
 rocobjLUAD1 <- plot.roc(final_statusLUADLit$Real, final_statusLUADLit$Predição,
                      percent=TRUE, col="#000000",
-                    ci=TRUE, 
-                  print.auc=TRUE# compute AUC (of AUC by default)
-                    )
+                    ci=TRUE)
 legend("bottomright", legend=c("LUAD lit","LUAD 35","LUAD 14"), 
        col=c("#000000","#008600","#0000FF"), lwd=2)
 
-plot.roc (final_statusLUAD35$Real, final_statusLUAD35$Predição, percent=TRUE, col="#008600", print.auc=TRUE,ci=TRUE,add=TRUE, print.auc.y=40)
-plot.roc(final_statusLUAD14$Real, final_statusLUAD14$Predição, percent=TRUE, col="#0000FF" ,ci=TRUE, print.auc=TRUE,ci=TRUE,add=TRUE, print.auc.y=30)
+plot.roc (final_statusLUAD35$Real, final_statusLUAD35$Predição, percent=TRUE, col="#008600",ci=TRUE)
+plot.roc(final_statusLUAD14$Real, final_statusLUAD14$Predição, percent=TRUE, col="#0000FF" ,ci=TRUE)

@@ -29,7 +29,7 @@ datagenes[datagenes==-1] <- 0
 
 
 # Selecting the feature
-Sign <- c("SI","FAT4","CDH10","PTPRD","RP1L1","ADGRG4","DNAH9","PAPPA2","TNR","KEAP1","DAMTS12","RYR3","APOB","MUC17","PCDH15","PCLO","ANK2","CSMD1","ZNF536","COL11A1","NAV3","FAT3","SPTA1","FLG","XIRP2","KRAS","ZFHX4","USH2A","LRP1B","RYR2","CSMD3","MUC16","TP53","TTN")
+sign <- c("SI","FAT4","CDH10","PTPRD","RP1L1","ADGRG4","DNAH9","PAPPA2","TNR","KEAP1","DAMTS12","RYR3","APOB","MUC17","PCDH15","PCLO","ANK2","CSMD1","ZNF536","COL11A1","NAV3","FAT3","SPTA1","FLG","XIRP2","KRAS","ZFHX4","USH2A","LRP1B","RYR2","CSMD3","MUC16","TP53","TTN")
 
 genes_vif <- setNames(data.frame(matrix(nrow=0, ncol=3)), c("sign", "gene", "vif"))
 

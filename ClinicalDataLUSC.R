@@ -31,7 +31,7 @@ names(LUSCclinicalraw)
 glimpse(LUSCclinicalraw)
 skim(LUSCclinicalraw) 
 #View(LUSCclinicalraw)
-
+ 
 ## 2. Cleaning data ---------------------------
 # Select variables based on NA count (> 50% complete is a good choice!)
 # ToDo: function to select variables with % completeness  

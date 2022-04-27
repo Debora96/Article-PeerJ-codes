@@ -317,7 +317,7 @@ library(caret)
 cfm=caret::confusionMatrix(table(final_statusLUAD14$Predição, final_statusLUAD14$Real))
 print(cfm)
 
-# ROC curve
+# ROC curve Figure 4A
 library(pROC)
 rocobjLUAD1 <- plot.roc(final_statusLUADLit$Real, final_statusLUADLit$Predição,
                      percent=TRUE, col="#000000",

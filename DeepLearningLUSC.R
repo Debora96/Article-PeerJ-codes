@@ -521,12 +521,6 @@ library(caret)
 cfm=caret::confusionMatrix(table(final_statusVal15$Predição, final_statusVal15$Real))
 print(cfm)
 
-#curva ROC
-#library(PRROC)
-#PRROC_obj <- roc.curve(scores.class0 = final_status$Predição, weights.class0=final_status$Real,curve=TRUE)
-#plot(PRROC_obj)
-
-
 library(pROC)
 
 rocobj1 <- plot.roc(final_statusLUSCLit$Real, final_statusLUSCLit$Predição, percent=TRUE, col="#000000" ,ci=TRUE)

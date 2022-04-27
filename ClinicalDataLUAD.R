@@ -78,8 +78,7 @@ View(LUAD_clean4)
 # Using snake_style 
 
 LUAD_clean4 <- LUAD_clean4 %>%
-  rename(patient_id = 'submitter_id',
-         sync_malign = 'synchronous_malignancy',
+  rename(sync_malign = 'synchronous_malignancy',
          tumor_stg ='tumor_stage',
          origin = 'tissue_or_organ_of_origin',
          last_follow_up ='days_to_last_follow_up',

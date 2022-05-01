@@ -50,6 +50,10 @@ data2<- subset(data2, select = NA_sum$variables)
 write_csv(data, path = "LUAD_clinreported.csv")
 write_csv(data2, path = "LUSC_clinreported.csv")
 
+data["disease"]<-c("LUAD")
+data2["disease"]<-c("LUSC")
+
+data3 <- bind_rows(data, data2)
 
 #FinalFit LUAD
 
@@ -74,5 +78,18 @@ data2 %>%
 knitr::kable(t2, row.names=FALSE, align=c("l", "l", "r", "r", "r"))
 
 export(t2, file = "tabelaLUSC_clean.xlsx")
+
+
+# Both cohorts (Table S2)
+#Table 3 - Patient demographics by variable of interest ----
+  explanatory = c("sync_malign","tumor_stg","origin", "age_diagnose" ,"prim_diagnose", "prior_cancer","prior_treat","t_patholog", "n_patholog","m_patholog","cigar_day","pack_years","ethnicity","race" ,"gender","age", "radiation_treat")
+dependent = "disease" 
+data3 %>%
+  summary_factorlist(dependent, explanatory,
+                     p=TRUE, add_dependent_label=TRUE) -> t3
+knitr::kable(t3, row.names=FALSE, align=c("l", "l", "r", "r", "r"))
+
+export(t3, file = "tabelaPanoram.xlsx")
+
 
 

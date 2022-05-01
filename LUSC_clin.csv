@@ -1,0 +1,505 @@
+patient_id,sync_malign,tumor_stg,origin,last_follow_up,prim_diagnose,age_diagnose,prior_cancer,year_diagnose,prior_treat,t_patholog,morphology,n_patholog,m_patholog,pack_years,cigar_day,race,ethnicity,gender,vital_status,age,days_to_birth,year_birth,phamaceutic_treat,radiation_treat
+TCGA-39-5019,No,I,Lobes,3387,SquamousCellCarcinoma,25756,no,2004,No,T2,8070/3,N0,M0,30,1.643835616438356,white,not hispanic or latino,male,Alive,70,-25756,1934,no,no
+TCGA-22-1016,No,I,"Lung, NOS",822,SquamousCellCarcinoma,24078,no,2001,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Dead,65,-24078,1936,no,no
+TCGA-63-A5MR,No,I,Lobes,2716,SquamousCellCarcinoma,25879,no,NA,No,T2,8070/3,N0,M0,120,6.575342465753424,not reported,not reported,female,Alive,70,-25879,NA,no,no
+TCGA-J1-A4AH,Yes,II,Lobes,581,SquamousCellCarcinoma,25893,no,2012,No,T2,8070/3,N0,MX,100,5.47945205479452,white,not hispanic or latino,male,Alive,70,-25893,1942,yes,no
+TCGA-33-AASJ,No,I,Lobes,NA,SquamousCellCarcinoma,22179,no,1999,No,T2,8070/3,N0,MX,NA,NA,black or african american,not hispanic or latino,male,Dead,60,-22179,1939,no,no
+TCGA-56-A5DR,No,I,Lobes,4,SquamousCellCarcinoma,29828,yes,2012,No,T1,8070/3,N0,MX,NA,NA,white,not hispanic or latino,male,Alive,81,-29828,1931,no,no
+TCGA-22-A5C4,No,II,Lobes,671,SquamousCellCarcinoma,25629,yes,2012,No,T2,8070/3,N0,M0,80,4.383561643835616,white,not hispanic or latino,male,Alive,70,-25629,1942,no,no
+TCGA-70-6722,No,III,Lobes,367,SquamousCellCarcinoma,17328,no,2010,No,T3,8070/3,N1,M0,NA,NA,asian,not hispanic or latino,male,Alive,47,-17328,1963,no,yes
+TCGA-77-8146,No,I,Lobes,3189,SquamousCellCarcinoma,26533,no,2005,No,T1,8070/3,N0,M0,75,4.109589041095891,not reported,not reported,male,Alive,72,-26533,1933,no,no
+TCGA-94-8491,No,II,Lobes,810,SquamousCellCarcinoma,26698,no,2012,No,T2,8070/3,N1,M0,56,3.0684931506849313,white,not reported,male,Alive,73,-26698,1939,yes,no
+TCGA-18-5595,Not Reported,I,Lobes,NA,SquamousCellCarcinoma,18611,yes,2008,No,T2,8070/3,N0,M0,NA,NA,not reported,not reported,male,Dead,50,-18611,1958,not reported,not reported
+TCGA-56-8307,No,II,Lobes,818,SquamousCellCarcinoma,20411,no,2012,No,T3,8070/3,N0,M0,35,1.917808219178082,white,not hispanic or latino,female,Alive,55,-20411,1957,no,no
+TCGA-63-A5MI,No,III,Lobes,1784,SquamousCellCarcinoma,24040,no,NA,No,T2,8070/3,N2,M0,50,2.73972602739726,not reported,not reported,male,Alive,65,-24040,NA,yes,no
+TCGA-77-6843,No,II,Lobes,NA,SquamousCellCarcinoma,27291,no,2002,No,T1,8070/3,N1,M0,30,1.643835616438356,white,not reported,male,Dead,74,-27291,1928,no,no
+TCGA-46-6026,No,II,Lobes,423,SquamousCellCarcinoma,29890,no,2010,No,T2,8070/3,N1,M0,NA,NA,white,not hispanic or latino,male,Alive,81,-29890,1929,yes,yes
+TCGA-63-A5MT,No,II,Lobes,498,SquamousCellCarcinoma,27263,no,NA,No,T3,8070/3,N0,M0,100,5.47945205479452,not reported,not reported,male,Alive,74,-27263,NA,yes,yes
+TCGA-56-8623,No,I,Lobes,6,SquamousCellCarcinoma,26231,no,2012,No,T2,8070/3,N0,MX,45,2.4657534246575343,white,not hispanic or latino,male,Dead,71,-26231,1941,no,no
+TCGA-77-8150,No,III,"Lung, NOS",NA,SquamousCellCarcinoma,23474,no,2007,No,T3,8070/3,N1,M0,46,2.5205479452054793,not reported,not reported,male,Dead,64,-23474,1943,yes,yes
+TCGA-51-4079,No,I,Lobes,NA,SquamousCellCarcinoma,26899,no,2009,No,T2,8070/3,N0,NA,25,1.36986301369863,black or african american,not hispanic or latino,female,Dead,73,-26899,1936,no,no
+TCGA-21-5786,No,I,Lobes,1032,SquamousCellCarcinoma,23649,no,2009,No,T2,8070/3,N0,M0,75,4.109589041095891,white,not hispanic or latino,male,Alive,64,-23649,1945,no,no
+TCGA-56-7222,No,I,Lobes,13,SquamousCellCarcinoma,22097,no,2011,No,T2,8070/3,N0,M0,23,1.2602739726027397,white,not hispanic or latino,male,Dead,60,-22097,1951,yes,no
+TCGA-77-7141,No,I,Lobes,15,SquamousCellCarcinoma,23584,no,2003,No,T2,8070/3,N0,M0,70,3.835616438356164,white,not reported,male,Alive,64,-23584,1939,no,no
+TCGA-39-5022,No,I,Lobes,NA,SquamousCellCarcinoma,27856,no,2005,No,T2,8070/3,N0,M0,35,1.917808219178082,white,not hispanic or latino,male,Dead,76,-27856,1929,no,no
+TCGA-90-A4ED,No,I,Lobes,615,SquamousCellCarcinoma,25453,no,2012,No,T2,8070/3,N0,MX,30,1.643835616438356,white,not hispanic or latino,male,Alive,69,-25453,1943,no,no
+TCGA-66-2755,No,I,Lobes,28,SquamousCellCarcinoma,23348,no,2007,No,T2,8070/3,N0,M0,20,1.095890410958904,not reported,not reported,male,Alive,63,-23348,1944,not reported,not reported
+TCGA-22-5477,No,I,Lobes,1346,SquamousCellCarcinoma,24055,no,2004,No,T1,8070/3,N0,M0,100,5.47945205479452,white,not reported,male,Dead,65,-24055,1939,no,no
+TCGA-33-4583,No,I,Lobes,4299,SquamousCellCarcinoma,26799,no,1999,No,T1,8070/3,N0,M0,46,2.5205479452054793,white,not hispanic or latino,male,Dead,73,-26799,1926,no,no
+TCGA-66-2754,No,III,Lobes,61,SquamousCellCarcinoma,24471,no,2007,No,T2,8070/3,N2,M0,40,2.191780821917808,not reported,not reported,male,Alive,67,-24471,1940,not reported,not reported
+TCGA-66-2793,No,III,Lobes,NA,SquamousCellCarcinoma,25111,no,2008,No,T4,8070/3,N1,M0,112,6.136986301369863,not reported,not reported,male,Dead,68,-25111,1940,not reported,not reported
+TCGA-85-8276,No,II,Lobes,1050,SquamousCellCarcinoma,22707,no,2011,No,T1,8070/3,N1,M0,20,1.095890410958904,white,not hispanic or latino,male,Alive,62,-22707,1949,yes,no
+TCGA-94-8035,No,II,Lobes,122,SquamousCellCarcinoma,23399,no,2011,No,T3,8070/3,N0,MX,50,2.73972602739726,white,not hispanic or latino,male,Alive,64,-23399,1947,yes,no
+TCGA-85-A4QR,No,I,Lobes,600,SquamousCellCarcinoma,24756,no,2012,No,T2,8070/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,male,Alive,67,-24756,1945,no,no
+TCGA-92-7340,No,II,Lobes,82,SquamousCellCarcinoma,16447,no,2011,No,T2,8070/3,N1,MX,15,0.821917808219178,white,not hispanic or latino,female,Alive,45,-16447,1966,yes,no
+TCGA-79-5596,No,III,Lobes,NA,SquamousCellCarcinoma,NA,no,2006,No,T3,8070/3,N1,M0,40,2.191780821917808,not reported,not reported,male,Alive,NA,NA,NA,no,no
+TCGA-60-2704,No,II,Lobes,NA,SquamousCellCarcinoma,26927,no,2003,No,T2,8070/3,N1,M0,60,3.287671232876712,white,not hispanic or latino,male,Dead,73,-26927,1930,no,no
+TCGA-92-7341,No,I,Lobes,106,SquamousCellCarcinoma,26134,no,2011,No,T2,8070/3,N0,MX,50,2.73972602739726,white,not hispanic or latino,male,Alive,71,-26134,1940,no,no
+TCGA-56-A62T,No,II,Lobes,440,SquamousCellCarcinoma,28522,no,2013,No,T2,8070/3,N0,MX,102,5.589041095890411,black or african american,not hispanic or latino,male,Alive,78,-28522,1935,yes,yes
+TCGA-O2-A5IB,No,III,Lobes,NA,SquamousCellCarcinoma,26211,no,2005,No,T3,8070/3,N1,MX,2.5,0.136986301369863,white,not hispanic or latino,female,Dead,71,-26211,1934,no,no
+TCGA-33-4582,No,I,Lobes,NA,SquamousCellCarcinoma,20402,no,2000,No,T1,8070/3,N0,M0,86,4.712328767123288,white,not hispanic or latino,male,Dead,55,-20402,1945,yes,yes
+TCGA-63-A5MU,No,II,Lobes,NA,SquamousCellCarcinoma,17801,no,NA,No,T2,8070/3,N1,M0,15,0.821917808219178,not reported,not reported,male,Dead,48,-17801,NA,yes,no
+TCGA-33-4589,Not Reported,II,"Lung, NOS",NA,SquamousCellCarcinoma,22754,yes,1992,No,T2,8070/3,N1,M0,45,2.4657534246575343,white,hispanic or latino,female,Dead,62,-22754,1930,no,no
+TCGA-18-3419,No,II,Lobes,2811,SquamousCellCarcinoma,26813,no,2007,No,T2,8070/3,N1,M0,50,2.73972602739726,not reported,not reported,male,Alive,73,-26813,1934,not reported,not reported
+TCGA-43-A475,No,II,Lobes,296,SquamousCellCarcinoma,24680,no,2012,No,T3,8070/3,N0,M0,100,5.47945205479452,white,not hispanic or latino,female,Alive,67,-24680,1945,yes,yes
+TCGA-34-8454,No,III,Lobes,1180,SquamousCellCarcinoma,22913,no,2011,No,T3,8070/3,N1,M0,90,4.931506849315069,white,not hispanic or latino,female,Alive,62,-22913,1949,yes,no
+TCGA-39-5027,No,I,Lobes,3108,SquamousCellCarcinoma,26714,no,2006,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,73,-26714,1933,no,no
+TCGA-56-8624,No,II,Lobes,420,SquamousCellCarcinoma,30798,no,2012,No,T3,8070/3,N0,MX,20,1.095890410958904,white,not hispanic or latino,male,Alive,84,-30798,1928,yes,no
+TCGA-90-7769,No,II,"Lung, NOS",358,SquamousCellCarcinoma,20276,no,2011,No,T2,8070/3,N1,MX,36,1.9726027397260273,white,not hispanic or latino,male,Alive,55,-20276,1956,no,no
+TCGA-56-A5DS,No,I,Lobes,8,SquamousCellCarcinoma,26355,no,2012,No,T2,8070/3,N0,MX,50,2.73972602739726,white,not hispanic or latino,female,Alive,72,-26355,1940,not reported,not reported
+TCGA-98-A53D,No,II,Lobes,22,SquamousCellCarcinoma,24891,yes,2012,No,T3,8071/3,N0,M0,90,4.931506849315069,white,not hispanic or latino,male,Dead,68,-24891,1944,yes,yes
+TCGA-98-8022,No,I,Lobes,224,SquamousCellCarcinoma,22487,no,2011,No,T1,8070/3,N0,M0,117,6.410958904109589,white,not hispanic or latino,male,Dead,61,-22487,1950,no,no
+TCGA-33-6738,No,III,Lobes,1927,SquamousCellCarcinoma,29368,no,2009,No,T1,8070/3,N2,MX,50,2.73972602739726,white,not reported,male,Alive,80,-29368,1929,yes,no
+TCGA-66-2737,No,II,Lobes,61,SquamousCellCarcinoma,26390,no,2005,No,T2,8070/3,N1,M0,40,2.191780821917808,not reported,not reported,male,Alive,72,-26390,1933,not reported,not reported
+TCGA-60-2698,No,II,Lobes,NA,SquamousCellCarcinoma,22800,no,1993,No,T2,8070/3,N1,M0,NA,NA,white,not reported,male,Dead,62,-22800,1931,no,no
+TCGA-77-8144,No,I,Lobes,833,SquamousCellCarcinoma,25796,no,2004,No,T2,8070/3,N0,M0,59,3.232876712328767,not reported,not reported,male,Alive,70,-25796,1934,no,no
+TCGA-33-4586,No,III,Lobes,NA,SquamousCellCarcinoma,21148,no,2007,No,T2,8070/3,N2,M0,108,5.917808219178082,white,not hispanic or latino,male,Dead,57,-21148,1950,yes,yes
+TCGA-43-2576,No,III,Lobes,1223,SquamousCellCarcinoma,22805,no,2009,No,T2,8070/3,N2,M0,20,1.095890410958904,white,not hispanic or latino,female,Alive,62,-22805,1947,yes,yes
+TCGA-18-3415,No,I,Lobes,1810,SquamousCellCarcinoma,28430,no,2006,No,T2,8070/3,N0,M0,30,1.643835616438356,not reported,not reported,male,Dead,77,-28430,1929,yes,no
+TCGA-94-7943,Not Reported,I,Lobes,559,SquamousCellCarcinoma,29282,yes,2011,No,T1,8070/3,NX,MX,30,1.643835616438356,white,not hispanic or latino,male,Alive,80,-29282,1931,no,no
+TCGA-33-4587,No,I,Lobes,NA,SquamousCellCarcinoma,23062,no,2003,No,T2,8073/3,N0,MX,NA,NA,white,not hispanic or latino,female,Dead,63,-23062,1940,yes,no
+TCGA-77-8136,No,II,Lobes,NA,SquamousCellCarcinoma,27193,no,2002,No,T2,8070/3,N1,M0,135,7.397260273972603,not reported,not reported,female,Dead,74,-27193,1928,no,no
+TCGA-L3-A524,No,II,Lobes,449,SquamousCellCarcinoma,16765,no,2011,No,T3,8070/3,N0,M0,25.6,1.4027397260273973,white,not hispanic or latino,female,Dead,45,-16765,1966,yes,no
+TCGA-34-5234,No,I,Lobes,2271,SquamousCellCarcinoma,26072,no,2007,No,T1,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,female,Alive,71,-26072,1936,no,no
+TCGA-77-7338,No,I,Lobes,NA,SquamousCellCarcinoma,23480,no,1995,No,T2,8070/3,N0,M0,41.25,2.26027397260274,white,not reported,male,Dead,64,-23480,1931,no,no
+TCGA-56-A4BW,No,II,Lobes,585,SquamousCellCarcinoma,20301,no,2012,No,T2,8070/3,N1,M0,120,6.575342465753424,white,not hispanic or latino,male,Alive,55,-20301,1957,yes,no
+TCGA-22-4591,No,III,Lobes,623,SquamousCellCarcinoma,29250,no,2001,No,T3,8070/3,N2,M0,NA,NA,white,not reported,male,Dead,80,-29250,1921,no,no
+TCGA-33-AAS8,No,I,Lobes,NA,SquamousCellCarcinoma,21675,no,1998,No,T1,8070/3,N0,MX,60,3.287671232876712,black or african american,not hispanic or latino,female,Dead,59,-21675,1939,yes,no
+TCGA-22-5481,No,II,Lobes,NA,SquamousCellCarcinoma,26419,no,2002,No,T2,8070/3,N1,M0,75,4.109589041095891,white,not reported,female,Dead,72,-26419,1930,no,no
+TCGA-39-5035,No,I,Lobes,2080,SquamousCellCarcinoma,26383,no,2007,No,T1,8070/3,N0,M0,47,2.5753424657534247,white,not hispanic or latino,female,Alive,72,-26383,1935,no,no
+TCGA-22-5492,No,III,Lobes,506,SquamousCellCarcinoma,26838,no,2003,No,T2,8070/3,N2,M0,50,2.73972602739726,not reported,not reported,female,Dead,73,-26838,1930,no,not reported
+TCGA-85-A4PA,No,I,Lobes,741,SquamousCellCarcinoma,22614,no,2012,No,T2,8072/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,61,-22614,1951,no,no
+TCGA-LA-A446,No,I,Lobes,401,SquamousCellCarcinoma,25199,no,2012,No,T1,8070/3,N0,MX,26,1.4246575342465753,white,not hispanic or latino,male,Alive,68,-25199,1944,no,no
+TCGA-63-A5MH,Yes,I,Lobes,2026,SquamousCellCarcinoma,25159,no,NA,No,T1,8070/3,N0,M0,35,1.917808219178082,not reported,not reported,male,Alive,68,-25159,NA,no,no
+TCGA-18-4721,No,I,Lobes,4694,SquamousCellCarcinoma,27076,no,2002,No,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,74,-27076,1928,no,no
+TCGA-43-8115,No,II,Lobes,407,SquamousCellCarcinoma,26406,no,2011,No,T2,8070/3,N1,MX,55.83,3.0591780821917807,white,not hispanic or latino,female,Alive,72,-26406,1939,yes,no
+TCGA-66-2778,No,III,Lobes,578,SquamousCellCarcinoma,25080,no,2007,No,T2,8070/3,N3,M0,37,2.0273972602739727,not reported,not reported,female,Alive,68,-25080,1939,yes,yes
+TCGA-63-A5M9,Not Reported,II,Lobes,0,SquamousCellCarcinoma,NA,not reported,NA,No,T2,8070/3,N1,M0,25,1.36986301369863,not reported,not reported,female,Alive,NA,NA,NA,not reported,not reported
+TCGA-NK-A7XE,No,III,Lobes,13,SquamousCellCarcinoma,24319,yes,2013,No,T4,8070/3,N2,M0,80,4.383561643835616,black or african american,not hispanic or latino,male,Alive,66,-24319,1947,no,no
+TCGA-66-2771,No,II,Lobes,578,SquamousCellCarcinoma,22219,no,2007,No,T2,8070/3,N1,M0,70,3.835616438356164,not reported,not reported,male,Alive,60,-22219,1947,yes,no
+TCGA-77-7465,No,II,Lobes,990,SquamousCellCarcinoma,21548,no,2010,No,T2,8070/3,N1,M0,120,6.575342465753424,white,not reported,male,Alive,58,-21548,1952,not reported,not reported
+TCGA-68-7757,No,I,Lobes,211,SquamousCellCarcinoma,27272,no,2011,No,T1,8070/3,N0,MX,25,1.36986301369863,white,not hispanic or latino,male,Alive,74,-27272,1937,no,no
+TCGA-46-3769,No,not reported,Lobes,135,SquamousCellCarcinoma,20941,no,2009,No,T4,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,57,-20941,1952,yes,yes
+TCGA-56-8625,No,III,Lobes,63,SquamousCellCarcinoma,24188,no,2012,No,T3,8070/3,N1,MX,NA,NA,white,not hispanic or latino,female,Dead,66,-24188,1946,yes,no
+TCGA-85-A4QQ,No,I,Lobes,553,SquamousCellCarcinoma,25065,no,2012,No,T2,8071/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,male,Dead,68,-25065,1944,no,no
+TCGA-66-2758,No,I,Lobes,639,SquamousCellCarcinoma,26209,no,2007,No,T2,8070/3,N0,M0,56,3.0684931506849313,not reported,not reported,male,Alive,71,-26209,1936,yes,no
+TCGA-56-7823,No,II,Lobes,1011,SquamousCellCarcinoma,21344,no,2011,No,T1,8070/3,N1,M0,80,4.383561643835616,white,not hispanic or latino,female,Alive,58,-21344,1953,yes,no
+TCGA-O2-A52S,No,III,Lobes,NA,SquamousCellCarcinoma,21182,no,2006,No,T4,8070/3,N2,MX,3,0.1643835616438356,white,not hispanic or latino,female,Dead,57,-21182,1949,no,yes
+TCGA-85-8580,No,I,Lobes,1113,SquamousCellCarcinoma,19301,no,2012,No,T2,8070/3,N0,M0,38,2.0821917808219177,white,not hispanic or latino,female,Alive,52,-19301,1960,no,no
+TCGA-22-4593,No,II,Lobes,1067,SquamousCellCarcinoma,28385,no,2002,No,T2,8070/3,N0,M0,30,1.643835616438356,white,not reported,male,Dead,77,-28385,1925,no,no
+TCGA-85-A5B5,No,I,Lobes,111,SquamousCellCarcinoma,21450,no,2012,No,T1,8070/3,N0,M0,15,0.821917808219178,white,not hispanic or latino,male,Alive,58,-21450,1954,no,no
+TCGA-68-A59I,No,III,Lobes,492,SquamousCellCarcinoma,26839,no,2012,No,T3,8070/3,N1,M0,50,2.73972602739726,black or african american,not hispanic or latino,female,Alive,73,-26839,1939,yes,yes
+TCGA-77-A5FZ,No,III,Lobes,NA,Papillary squamous cell carcinoma,23436,no,2001,No,T4,8052/3,N0,M0,141,7.726027397260274,not reported,not reported,male,Dead,64,-23436,1937,no,no
+TCGA-22-4609,No,I,Lobes,NA,SquamousCellCarcinoma,29844,no,2003,No,T1,8070/3,N0,M0,77,4.219178082191781,white,not reported,male,Dead,81,-29844,1922,no,no
+TCGA-77-8008,No,I,Lobes,NA,SquamousCellCarcinoma,24948,no,2001,No,T2,8071/3,N0,M0,61.5,3.3698630136986303,not reported,not reported,male,Dead,68,-24948,1933,no,no
+TCGA-34-8455,No,IV,Lobes,NA,SquamousCellCarcinoma,24624,no,2011,No,T4,8070/3,N0,M1,50,2.73972602739726,white,not hispanic or latino,male,Dead,67,-24624,1944,no,no
+TCGA-NC-A5HL,No,II,Lobes,NA,SquamousCellCarcinoma,26977,no,2010,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not reported,male,Dead,73,-26977,1937,no,no
+TCGA-22-5478,No,I,Lobes,24,SquamousCellCarcinoma,28978,no,2004,No,T2,8070/3,N0,M0,NA,NA,not reported,not reported,male,Dead,79,-28978,1925,no,no
+TCGA-63-5128,No,I,Lobes,NA,SquamousCellCarcinoma,NA,no,2007,No,T2,8070/3,N0,M0,NA,NA,not reported,not reported,male,Dead,NA,NA,NA,no,no
+TCGA-66-2777,No,I,Lobes,61,SquamousCellCarcinoma,26085,no,2007,No,T2,8070/3,N0,M0,12,0.6575342465753424,not reported,not reported,male,Alive,71,-26085,1936,not reported,not reported
+TCGA-56-8083,No,I,Lobes,150,SquamousCellCarcinoma,20696,no,2011,No,T2,8070/3,N0,MX,30,1.643835616438356,white,not hispanic or latino,male,Alive,56,-20696,1955,not reported,not reported
+TCGA-90-A4EE,No,II,Main bronchus,688,SquamousCellCarcinoma,19676,no,2012,No,T2,8070/3,N1,MX,68,3.7260273972602738,white,not hispanic or latino,male,Alive,53,-19676,1959,yes,no
+TCGA-56-A49D,No,III,Lobes,637,SquamousCellCarcinoma,24745,no,2012,No,T2,8070/3,N2,MX,53,2.904109589041096,white,not reported,male,Alive,67,-24745,1945,no,no
+TCGA-77-8139,No,II,Lobes,3166,SquamousCellCarcinoma,26464,no,2003,No,T3,8070/3,N0,M0,52,2.8493150684931505,not reported,not reported,male,Alive,72,-26464,1931,no,no
+TCGA-94-A5I4,No,II,Main bronchus,491,SquamousCellCarcinoma,22299,yes,2012,No,T2,8070/3,N1,MX,80,4.383561643835616,white,not hispanic or latino,male,Alive,61,-22299,1951,no,yes
+TCGA-66-2786,No,I,Lobes,790,SquamousCellCarcinoma,25051,no,2008,No,T1,8070/3,N0,M0,74,4.054794520547945,not reported,not reported,female,Alive,68,-25051,1940,no,no
+TCGA-22-5480,No,I,Lobes,2170,SquamousCellCarcinoma,24245,no,2002,No,T1,8070/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,female,Dead,66,-24245,1936,no,no
+TCGA-43-A474,No,II,Lobes,353,SquamousCellCarcinoma,24286,yes,2012,No,T2,8070/3,N0,M0,47,2.5753424657534247,white,not hispanic or latino,male,Alive,66,-24286,1946,yes,no
+TCGA-22-5473,No,not reported,Lobes,NA,SquamousCellCarcinoma,28826,no,2005,No,T3,8070/3,N0,M0,45,2.4657534246575343,white,not hispanic or latino,male,Dead,78,-28826,1927,yes,no
+TCGA-21-5784,No,I,Lobes,1268,SquamousCellCarcinoma,29362,no,2008,No,T2,8070/3,N0,M0,14,0.7671232876712328,white,not hispanic or latino,female,Alive,80,-29362,1928,no,no
+TCGA-58-8390,No,II,Lobes,911,SquamousCellCarcinoma,25827,no,2010,No,T2,8070/3,N0,M0,120,6.575342465753424,white,not hispanic or latino,male,Alive,70,-25827,1940,no,no
+TCGA-34-5232,No,II,Lobes,2471,SquamousCellCarcinoma,27633,no,2006,No,T1,8070/3,N1,M0,NA,NA,black or african american,not hispanic or latino,female,Alive,75,-27633,1931,no,no
+TCGA-39-5016,No,II,Lobes,3850,Basaloid squamous cell carcinoma,16306,no,2003,No,T2,8083/3,N1,M0,40,2.191780821917808,white,not reported,male,Alive,44,-16306,1959,no,no
+TCGA-MF-A522,No,I,Lobes,83,SquamousCellCarcinoma,20051,no,2012,No,T2,8071/3,N0,MX,45,2.4657534246575343,white,not reported,male,Dead,54,-20051,1958,yes,yes
+TCGA-66-2781,No,I,Lobes,121,SquamousCellCarcinoma,24471,no,2007,No,T2,8070/3,N0,M0,80,4.383561643835616,not reported,not reported,male,Alive,67,-24471,1940,not reported,not reported
+TCGA-63-A5ML,No,I,Lobes,1386,SquamousCellCarcinoma,24947,no,NA,No,T2,8070/3,N0,M0,60,3.287671232876712,not reported,not reported,male,Alive,68,-24947,NA,yes,no
+TCGA-66-2791,No,III,Lobes,NA,SquamousCellCarcinoma,24138,no,2008,No,T2,8070/3,N3,M0,25,1.36986301369863,not reported,not reported,male,Dead,66,-24138,1942,not reported,not reported
+TCGA-56-8629,No,II,Lobes,481,SquamousCellCarcinoma,23346,no,2012,No,T2,8070/3,N0,MX,66,3.6164383561643834,white,not hispanic or latino,male,Alive,63,-23346,1949,yes,no
+TCGA-66-2790,No,II,Lobes,699,SquamousCellCarcinoma,26420,no,2008,No,T2,8070/3,N1,M0,57,3.1232876712328768,not reported,not reported,male,Alive,72,-26420,1936,yes,no
+TCGA-63-A5MS,No,I,Lobes,2381,SquamousCellCarcinoma,28827,no,NA,No,T2,8070/3,N0,M0,6,0.3287671232876712,not reported,not reported,male,Alive,78,-28827,NA,no,no
+TCGA-58-A46K,No,III,Lobes,NA,Basaloid squamous cell carcinoma,21867,no,2008,No,T2,8083/3,N2,M0,10,0.547945205479452,white,not hispanic or latino,male,Dead,59,-21867,1949,yes,yes
+TCGA-18-3410,Not Reported,II,Lobes,NA,SquamousCellCarcinoma,29827,yes,2004,No,T3,8070/3,N0,M0,NA,NA,not reported,not reported,male,Dead,81,-29827,1923,no,no
+TCGA-22-1012,No,I,"Lung, NOS",NA,SquamousCellCarcinoma,29273,no,2001,No,T2,8070/3,N0,M0,60,3.287671232876712,white,not hispanic or latino,female,Dead,80,-29273,1921,not reported,not reported
+TCGA-63-A5MP,No,II,Lobes,769,SquamousCellCarcinoma,20818,no,NA,No,T2,8070/3,N1,M0,41,2.2465753424657535,not reported,not reported,male,Alive,56,-20818,NA,yes,yes
+TCGA-22-1005,No,I,"Lung, NOS",1953,SquamousCellCarcinoma,23322,no,2001,No,T1,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Dead,63,-23322,1938,no,no
+TCGA-85-8353,No,III,Lobes,54,SquamousCellCarcinoma,26549,no,2011,No,T3,8070/3,N1,M0,50,2.73972602739726,white,not hispanic or latino,male,Dead,72,-26549,1939,no,no
+TCGA-85-6560,No,II,Lobes,1259,SquamousCellCarcinoma,21768,no,2011,No,T1,8070/3,N1,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,59,-21768,1952,yes,no
+TCGA-22-5471,Not Reported,I,Lobes,1845,SquamousCellCarcinoma,27749,yes,2005,No,T2,8070/3,N0,M0,50,2.73972602739726,white,not reported,male,Alive,75,-27749,1930,no,yes
+TCGA-85-8664,No,II,Lobes,434,SquamousCellCarcinoma,26954,no,2011,No,T2,8070/3,N1,M0,60,3.287671232876712,white,not hispanic or latino,male,Dead,73,-26954,1938,yes,no
+TCGA-98-A53B,No,I,Lobes,NA,SquamousCellCarcinoma,25390,no,2012,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Dead,69,-25390,1943,no,no
+TCGA-85-7950,No,I,Lobes,576,SquamousCellCarcinoma,16975,no,2011,No,T2,8070/3,N0,M0,27,1.4794520547945205,white,not hispanic or latino,male,Alive,46,-16975,1965,no,no
+TCGA-NC-A5HO,No,III,Lobes,1336,SquamousCellCarcinoma,25694,no,2011,No,T3,8071/3,N1,M0,30,1.643835616438356,white,not reported,female,Alive,70,-25694,1941,yes,no
+TCGA-21-1080,No,I,Lobes,3724,SquamousCellCarcinoma,24253,no,1996,No,T2,8070/3,N0,M0,100,5.47945205479452,white,not hispanic or latino,male,Alive,66,-24253,1930,no,no
+TCGA-77-8140,No,II,Lobes,NA,SquamousCellCarcinoma,24415,no,2003,No,T2,8070/3,N1,M0,78,4.273972602739726,not reported,not reported,female,Dead,66,-24415,1937,no,no
+TCGA-33-4538,No,III,Lobes,NA,SquamousCellCarcinoma,24174,no,2002,Yes,T2,8070/3,N2,M0,51,2.7945205479452055,white,hispanic or latino,male,Dead,66,-24174,1936,yes,no
+TCGA-22-4605,No,I,Lobes,NA,SquamousCellCarcinoma,28623,no,2003,No,T2,8072/3,N0,M0,75,4.109589041095891,not reported,not reported,female,Dead,78,-28623,1925,no,yes
+TCGA-22-4595,No,III,Lobes,734,SquamousCellCarcinoma,21146,no,2002,No,T3,8070/3,N2,NA,37,2.0273972602739727,white,not reported,male,Dead,57,-21146,1945,no,yes
+TCGA-77-8009,No,II,"Lung, NOS",1641,SquamousCellCarcinoma,25037,no,2007,No,T2,8070/3,N1,M0,97.5,5.342465753424658,not reported,not reported,male,Dead,68,-25037,1939,yes,no
+TCGA-39-5040,No,III,Lobes,NA,SquamousCellCarcinoma,21790,no,2008,No,T2,8070/3,N2,M0,60,3.287671232876712,white,not hispanic or latino,male,Dead,59,-21790,1949,yes,yes
+TCGA-34-2596,No,II,Main bronchus,80,SquamousCellCarcinoma,25574,no,2004,No,T2,8070/3,N1,M0,60,3.287671232876712,white,not hispanic or latino,male,Dead,70,-25574,1934,no,no
+TCGA-56-8082,No,II,Lobes,455,SquamousCellCarcinoma,29440,no,2011,No,T2,8070/3,N0,MX,NA,NA,white,not hispanic or latino,female,Alive,80,-29440,1931,no,no
+TCGA-37-4135,No,I,Lobes,207,SquamousCellCarcinoma,25041,no,2010,No,T2,8070/3,N0,M0,45,2.4657534246575343,white,not hispanic or latino,male,Alive,68,-25041,1942,not reported,not reported
+TCGA-34-2605,Not Reported,III,Lobes,881,SquamousCellCarcinoma,27833,yes,2006,No,T4,8070/3,N1,M0,60,3.287671232876712,white,not hispanic or latino,male,Dead,76,-27833,1930,yes,no
+TCGA-85-7710,No,I,Lobes,42,SquamousCellCarcinoma,21790,no,2011,No,T1,8070/3,N0,M0,45,2.4657534246575343,white,not hispanic or latino,female,Alive,59,-21790,1952,no,no
+TCGA-56-6545,No,I,Lobes,666,SquamousCellCarcinoma,28400,no,2010,No,T2,8070/3,N0,M0,NA,NA,white,not reported,female,Alive,77,-28400,1933,no,no
+TCGA-92-8065,No,II,Lobes,70,SquamousCellCarcinoma,27049,no,2012,No,T3,8071/3,N0,MX,14,0.7671232876712328,white,not hispanic or latino,female,Alive,74,-27049,1938,no,no
+TCGA-22-4604,No,II,Lobes,NA,SquamousCellCarcinoma,26952,no,2003,No,T2,8070/3,N1,M0,50,2.73972602739726,white,not reported,male,Dead,73,-26952,1930,yes,no
+TCGA-98-8023,No,III,"Lung, NOS",649,SquamousCellCarcinoma,25732,no,2011,No,T3,8070/3,N1,M0,75,4.109589041095891,white,not hispanic or latino,male,Alive,70,-25732,1941,no,no
+TCGA-85-A513,No,I,Lobes,910,SquamousCellCarcinoma,21967,no,2012,No,T1,8070/3,NX,M0,NA,NA,asian,not hispanic or latino,female,Alive,60,-21967,1952,not reported,no
+TCGA-22-4607,No,I,Lobes,587,SquamousCellCarcinoma,27601,no,2003,No,T2,8070/3,N0,M0,20,1.095890410958904,white,not reported,male,Dead,75,-27601,1928,no,no
+TCGA-39-5031,No,I,Lobes,833,SquamousCellCarcinoma,28106,no,2007,No,T1,8070/3,N0,M0,60,3.287671232876712,not reported,not reported,female,Dead,76,-28106,1931,no,no
+TCGA-34-5236,No,II,Lobes,NA,SquamousCellCarcinoma,21935,no,2007,No,T3,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Dead,60,-21935,1947,yes,yes
+TCGA-52-7812,No,not reported,"Lung, NOS",NA,SquamousCellCarcinoma,24887,no,2009,No,T2,8070/3,N2,M0,30,1.643835616438356,white,hispanic or latino,male,Dead,68,-24887,1941,yes,yes
+TCGA-18-3407,Not Reported,I,Lobes,NA,SquamousCellCarcinoma,26615,yes,2003,No,T2,8070/3,N0,M0,40,2.191780821917808,asian,not hispanic or latino,male,Dead,72,-26615,1931,no,no
+TCGA-NC-A5HT,No,III,Overlapping lesion of lung,804,SquamousCellCarcinoma,25466,no,2012,No,T3,8070/3,N1,M0,50,2.73972602739726,white,not reported,male,Alive,69,-25466,1943,yes,yes
+TCGA-66-2792,No,II,Lobes,913,SquamousCellCarcinoma,21428,no,2008,No,T2,8070/3,N1,M0,10,0.547945205479452,not reported,not reported,male,Alive,58,-21428,1950,yes,no
+TCGA-96-A4JK,No,II,Lobes,589,SquamousCellCarcinoma,23974,yes,2012,Yes,T2,8070/3,N1,M0,110,6.027397260273973,white,not hispanic or latino,male,Alive,65,-23974,1947,yes,no
+TCGA-56-A4BX,No,II,Lobes,405,SquamousCellCarcinoma,25745,no,2012,No,T2,8070/3,N0,MX,83,4.5479452054794525,white,not hispanic or latino,male,Alive,70,-25745,1942,yes,no
+TCGA-77-8133,No,II,"Lung, NOS",NA,SquamousCellCarcinoma,27139,no,2001,No,T1,8070/3,N1,M0,22,1.2054794520547945,not reported,not reported,male,Dead,74,-27139,1927,no,no
+TCGA-56-8504,No,I,Lobes,510,SquamousCellCarcinoma,27210,yes,2012,No,T2,8070/3,N0,MX,NA,NA,white,not hispanic or latino,male,Alive,74,-27210,1938,no,no
+TCGA-85-A50M,No,II,Lobes,382,SquamousCellCarcinoma,17429,no,2012,No,T2,8070/3,N0,M0,15,0.821917808219178,asian,not hispanic or latino,male,Dead,47,-17429,1965,no,no
+TCGA-60-2697,No,II,"Lung, NOS",NA,SquamousCellCarcinoma,14984,no,1992,Yes,T2,8070/3,N2,M0,NA,NA,white,not reported,male,Dead,41,-14984,1951,no,no
+TCGA-96-7545,Not Reported,I,Lobes,1344,SquamousCellCarcinoma,26729,yes,2008,No,T1,8070/3,N0,MX,116,6.3561643835616435,white,not hispanic or latino,male,Dead,73,-26729,1935,no,no
+TCGA-77-8154,No,I,Lobes,1841,SquamousCellCarcinoma,24640,no,2008,No,T1,8070/3,N0,M0,40,2.191780821917808,not reported,not reported,male,Alive,67,-24640,1941,no,no
+TCGA-39-5034,No,II,Lobes,1107,SquamousCellCarcinoma,26682,no,2007,No,T3,8070/3,N0,M0,84,4.602739726027397,white,not hispanic or latino,female,Dead,73,-26682,1934,no,no
+TCGA-34-7107,No,II,Lobes,NA,SquamousCellCarcinoma,25677,no,2011,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Dead,70,-25677,1941,not reported,not reported
+TCGA-43-6771,No,I,Lobes,NA,SquamousCellCarcinoma,31052,no,2006,No,T2,8070/3,N0,MX,40,2.191780821917808,white,not reported,male,Dead,85,-31052,1921,no,no
+TCGA-98-A53J,No,I,Lobes,630,SquamousCellCarcinoma,28485,no,2012,No,T2,8070/3,N0,M0,100,5.47945205479452,white,not hispanic or latino,male,Alive,77,-28485,1935,no,no
+TCGA-21-1078,Not Reported,I,Lobes,474,SquamousCellCarcinoma,28125,yes,2006,No,T2,8070/3,N0,M0,9,0.4931506849315068,white,not hispanic or latino,male,Dead,77,-28125,1929,no,no
+TCGA-43-6773,No,II,Lobes,NA,SquamousCellCarcinoma,28036,no,2008,No,T2,8070/3,N1,MX,NA,NA,white,not reported,male,Dead,76,-28036,1932,no,no
+TCGA-96-7544,No,II,Lobes,1517,SquamousCellCarcinoma,30548,no,2008,No,T2,8070/3,N1,MX,65,3.5616438356164384,white,not hispanic or latino,male,Dead,83,-30548,1925,no,no
+TCGA-77-A5G1,No,III,Lobes,4026,SquamousCellCarcinoma,27555,no,2002,No,T3,8070/3,N1,M0,53,2.904109589041096,not reported,not reported,male,Alive,75,-27555,1927,no,no
+TCGA-77-A5GF,No,II,Lobes,839,SquamousCellCarcinoma,25654,no,2011,No,T2,8070/3,N1,M0,60,3.287671232876712,not reported,not reported,male,Dead,70,-25654,1941,no,no
+TCGA-85-8355,No,I,Lobes,61,SquamousCellCarcinoma,23227,no,2011,No,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,63,-23227,1948,no,no
+TCGA-L3-A4E7,No,I,Lobes,392,SquamousCellCarcinoma,26232,no,2012,No,T2,8070/3,N0,M0,25,1.36986301369863,white,not hispanic or latino,male,Alive,71,-26232,1941,no,no
+TCGA-77-8148,No,III,"Lung, NOS",2023,SquamousCellCarcinoma,24918,no,2006,No,T3,8070/3,N1,M0,60,3.287671232876712,not reported,not reported,male,Alive,68,-24918,1938,no,no
+TCGA-85-6561,No,I,Lobes,1224,SquamousCellCarcinoma,24234,no,2011,No,T2,8070/3,NX,M0,35,1.917808219178082,white,not hispanic or latino,male,Alive,66,-24234,1945,yes,yes
+TCGA-39-5011,No,I,"Lung, NOS",4053,SquamousCellCarcinoma,25788,no,2002,No,T1,8070/3,N0,M0,45,2.4657534246575343,white,not hispanic or latino,female,Alive,70,-25788,1932,no,no
+TCGA-37-5819,No,III,Lobes,103,SquamousCellCarcinoma,23726,no,2010,No,T2,8070/3,N2,M0,45,2.4657534246575343,white,not hispanic or latino,male,Alive,64,-23726,1946,not reported,not reported
+TCGA-39-5024,No,III,"Lung, NOS",2510,SquamousCellCarcinoma,23975,no,2005,No,T2,8070/3,N2,M0,40,2.191780821917808,white,not hispanic or latino,female,Alive,65,-23975,1940,yes,no
+TCGA-66-2727,No,I,Lobes,NA,SquamousCellCarcinoma,20150,no,2004,No,T2,8070/3,N0,M0,56,3.0684931506849313,not reported,not reported,female,Dead,55,-20150,1949,not reported,not reported
+TCGA-77-7335,No,III,"Lung, NOS",NA,SquamousCellCarcinoma,22863,no,1996,No,T4,8071/3,N2,M0,52,2.8493150684931505,white,not reported,female,Dead,62,-22863,1934,no,no
+TCGA-98-A539,No,II,Lobes,173,SquamousCellCarcinoma,23098,yes,2011,No,T3,8070/3,N0,M0,75,4.109589041095891,white,not hispanic or latino,male,Alive,63,-23098,1948,no,no
+TCGA-66-2756,No,III,Lobes,30,SquamousCellCarcinoma,24929,no,2007,No,T4,8070/3,N0,M0,NA,NA,not reported,not reported,male,Alive,68,-24929,1939,not reported,not reported
+TCGA-85-8354,No,I,Lobes,995,SquamousCellCarcinoma,19692,no,2011,No,T2,8070/3,N0,M0,30,1.643835616438356,white,not hispanic or latino,male,Alive,53,-19692,1958,no,no
+TCGA-77-A5G7,No,I,Lobes,NA,SquamousCellCarcinoma,23090,no,2009,No,T1,8070/3,N0,M0,69,3.780821917808219,not reported,not reported,male,Dead,63,-23090,1946,no,no
+TCGA-34-8456,No,II,Lobes,804,SquamousCellCarcinoma,26183,no,2011,No,T2,8070/3,N1,M0,20,1.095890410958904,white,not hispanic or latino,female,Alive,71,-26183,1940,no,no
+TCGA-66-2780,No,I,Lobes,NA,SquamousCellCarcinoma,23955,no,2007,No,T2,8070/3,N0,M0,28,1.5342465753424657,not reported,not reported,male,Dead,65,-23955,1942,not reported,not reported
+TCGA-66-2789,No,III,Lobes,NA,SquamousCellCarcinoma,26753,no,2008,No,T1,8070/3,N3,M0,40,2.191780821917808,not reported,not reported,male,Dead,73,-26753,1935,not reported,not reported
+TCGA-85-A50Z,No,II,Lobes,493,SquamousCellCarcinoma,20941,no,2012,No,T2,8070/3,N0,M0,45,2.4657534246575343,white,not hispanic or latino,male,Alive,57,-20941,1955,yes,no
+TCGA-39-5028,No,III,Lobes,52,SquamousCellCarcinoma,27707,no,2006,No,T4,8070/3,N1,M0,30,1.643835616438356,white,not hispanic or latino,male,Dead,75,-27707,1931,no,no
+TCGA-43-A56U,No,I,Lobes,432,SquamousCellCarcinoma,27847,no,2012,No,T1,8070/3,N0,MX,20.5,1.1232876712328768,white,not hispanic or latino,female,Alive,76,-27847,1936,no,no
+TCGA-58-A46L,No,III,Lobes,1723,Basaloid squamous cell carcinoma,26685,no,2008,No,T2,8083/3,N2,M0,NA,NA,white,not hispanic or latino,male,Alive,73,-26685,1935,yes,no
+TCGA-63-A5MM,No,II,Overlapping lesion of lung,NA,SquamousCellCarcinoma,25348,no,NA,No,T2,8070/3,N1,M0,30,1.643835616438356,not reported,not reported,female,Dead,69,-25348,NA,yes,yes
+TCGA-66-2785,No,I,Lobes,60,SquamousCellCarcinoma,23772,no,2008,No,T2,8070/3,N0,M0,70,3.835616438356164,not reported,not reported,male,Alive,65,-23772,1943,not reported,not reported
+TCGA-43-7657,Not Reported,I,Lobes,236,SquamousCellCarcinoma,25042,yes,2011,No,T1,8070/3,N0,MX,45,2.4657534246575343,white,not hispanic or latino,female,Alive,68,-25042,1943,no,no
+TCGA-60-2720,No,I,Lobes,97,SquamousCellCarcinoma,22238,no,2007,No,T2,8070/3,N0,M0,110,6.027397260273973,white,not hispanic or latino,female,Alive,60,-22238,1947,yes,not reported
+TCGA-O2-A52W,No,I,Lobes,NA,SquamousCellCarcinoma,23156,yes,2006,No,T2,8070/3,N0,MX,2.5,0.136986301369863,black or african american,not hispanic or latino,male,Dead,63,-23156,1943,no,no
+TCGA-60-2696,Not Reported,II,Lobes,109,SquamousCellCarcinoma,27991,yes,2009,Yes,T2,8070/3,N0,M0,15,0.821917808219178,black or african american,not hispanic or latino,female,Dead,76,-27991,1933,no,no
+TCGA-92-8063,No,III,Lobes,122,SquamousCellCarcinoma,19193,no,2011,No,T2,8070/3,N2,MX,74,4.054794520547945,white,not hispanic or latino,male,Alive,52,-19193,1959,yes,yes
+TCGA-21-1076,No,I,Lobes,1852,SquamousCellCarcinoma,19863,no,2005,No,T2,8070/3,N0,M0,35,1.917808219178082,white,not hispanic or latino,female,Alive,54,-19863,1951,no,no
+TCGA-77-7463,No,I,Lobes,NA,SquamousCellCarcinoma,27520,no,2001,No,T2,8070/3,N0,M0,42,2.3013698630136985,white,not reported,male,Dead,75,-27520,1926,no,no
+TCGA-6A-AB49,No,I,Lobes,NA,SquamousCellCarcinoma,NA,no,2009,No,T2,8070/3,N0,MX,50,2.73972602739726,black or african american,not hispanic or latino,female,Dead,73,NA,1936,no,no
+TCGA-66-2769,No,III,Lobes,NA,SquamousCellCarcinoma,27515,no,2007,No,T4,8070/3,N0,M0,33,1.8082191780821917,not reported,not reported,male,Dead,75,-27515,1932,not reported,not reported
+TCGA-63-A5MV,No,II,Lobes,1100,SquamousCellCarcinoma,25505,no,NA,No,T2,8070/3,N0,M0,50,2.73972602739726,not reported,not reported,male,Alive,69,-25505,NA,yes,no
+TCGA-85-7698,No,I,Lobes,952,SquamousCellCarcinoma,17651,no,2011,No,T1,8070/3,N0,M0,44,2.410958904109589,white,not hispanic or latino,male,Alive,48,-17651,1963,yes,no
+TCGA-63-A5MJ,No,II,"Lung, NOS",1824,SquamousCellCarcinoma,20018,no,NA,No,T2,8070/3,N1,M0,NA,NA,not reported,not reported,male,Alive,54,-20018,NA,yes,no
+TCGA-46-3768,No,III,Lobes,4,SquamousCellCarcinoma,21307,no,2010,No,T3,8070/3,N1,M0,NA,NA,white,not hispanic or latino,male,Dead,58,-21307,1952,yes,yes
+TCGA-34-2600,No,I,Lobes,1874,SquamousCellCarcinoma,28072,no,2000,No,T1,8070/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,female,Dead,76,-28072,1924,no,no
+TCGA-34-2604,Not Reported,I,Lobes,958,SquamousCellCarcinoma,29827,yes,1999,No,T2,8070/3,N0,M0,132,7.232876712328767,white,not hispanic or latino,female,Dead,81,-29827,1918,no,no
+TCGA-77-7139,No,II,Lobes,4261,SquamousCellCarcinoma,20632,no,2002,No,T2,8070/3,N1,M0,2,0.1095890410958904,white,not reported,male,Alive,56,-20632,1946,no,yes
+TCGA-98-A538,No,II,Lobes,826,SquamousCellCarcinoma,24698,no,2012,No,T3,8070/3,N0,M0,35,1.917808219178082,white,not hispanic or latino,male,Alive,67,-24698,1945,no,no
+TCGA-37-A5EN,No,III,Lobes,660,SquamousCellCarcinoma,21600,no,2011,No,T4,8070/3,N2,M0,NA,NA,white,not hispanic or latino,male,Alive,59,-21600,1952,no,no
+TCGA-60-2722,No,II,Lobes,908,SquamousCellCarcinoma,24267,no,2008,No,T2,8070/3,N1,M0,90,4.931506849315069,white,not hispanic or latino,male,Alive,66,-24267,1942,yes,no
+TCGA-60-2703,No,II,"Lung, NOS",NA,SquamousCellCarcinoma,27003,no,2002,No,T2,8070/3,N1,M0,50,2.73972602739726,white,not hispanic or latino,male,Dead,73,-27003,1929,no,no
+TCGA-NC-A5HR,No,II,Lobes,1244,Basaloid squamous cell carcinoma,27629,yes,2011,No,T2,8083/3,N1,M0,35,1.917808219178082,white,not reported,female,Alive,75,-27629,1936,yes,no
+TCGA-60-2706,No,I,"Lung, NOS",2820,SquamousCellCarcinoma,21477,no,2003,No,T1,8070/3,N0,M0,51,2.7945205479452055,white,not hispanic or latino,male,Alive,58,-21477,1945,no,no
+TCGA-85-8582,No,I,Lobes,1160,SquamousCellCarcinoma,18168,no,2012,No,T1,8071/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,49,-18168,1963,no,no
+TCGA-46-6025,No,II,Lobes,324,SquamousCellCarcinoma,26168,no,2010,No,T2,8070/3,N1,M0,NA,NA,white,not hispanic or latino,male,Alive,71,-26168,1939,yes,no
+TCGA-43-5670,No,II,Lobes,849,SquamousCellCarcinoma,25652,no,2010,No,T2,8070/3,N0,M0,30,1.643835616438356,white,not hispanic or latino,male,Alive,70,-25652,1940,yes,no
+TCGA-63-A5MN,No,II,Lobes,NA,SquamousCellCarcinoma,28677,no,NA,No,T3,8070/3,N0,M0,NA,NA,not reported,not reported,female,Dead,78,-28677,NA,no,yes
+TCGA-34-5239,No,III,Lobes,1834,SquamousCellCarcinoma,27528,no,2010,No,T4,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,75,-27528,1935,yes,no
+TCGA-90-6837,No,II,Overlapping lesion of lung,758,SquamousCellCarcinoma,23511,no,2011,No,T3,8070/3,N0,MX,40,2.191780821917808,white,not hispanic or latino,male,Alive,64,-23511,1947,yes,no
+TCGA-68-A59J,No,I,Lobes,448,SquamousCellCarcinoma,27031,no,2012,No,T2,8070/3,N0,MX,45,2.4657534246575343,white,not hispanic or latino,female,Alive,74,-27031,1938,no,no
+TCGA-85-8048,No,I,Lobes,765,SquamousCellCarcinoma,22907,no,2011,No,T1,8070/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,male,Alive,62,-22907,1949,no,no
+TCGA-98-8020,No,III,Lobes,NA,SquamousCellCarcinoma,20509,yes,2011,No,T2,8070/3,N2,M0,NA,NA,black or african american,not hispanic or latino,female,Dead,56,-20509,1955,no,yes
+TCGA-NK-A5CX,No,II,Lobes,111,SquamousCellCarcinoma,26879,no,2011,No,T2,8070/3,N0,MX,40,2.191780821917808,white,not hispanic or latino,male,Alive,73,-26879,1938,no,no
+TCGA-21-1071,No,I,Lobes,1426,SquamousCellCarcinoma,24515,no,2001,No,T2,8070/3,N0,M0,90,4.931506849315069,white,not hispanic or latino,male,Dead,67,-24515,1934,no,no
+TCGA-77-8143,No,III,Lobes,NA,SquamousCellCarcinoma,27772,no,2004,No,T2,8070/3,N2,M0,30,1.643835616438356,not reported,not reported,male,Dead,76,-27772,1928,no,yes
+TCGA-22-5485,No,I,Lobes,916,SquamousCellCarcinoma,21488,no,2001,No,T1,8070/3,N0,M0,60,3.287671232876712,white,not reported,female,Dead,58,-21488,1943,no,no
+TCGA-39-5037,No,II,Lobes,1690,SquamousCellCarcinoma,23868,no,2007,No,T1,8070/3,N1,M0,26,1.4246575342465753,white,not hispanic or latino,male,Alive,65,-23868,1942,yes,no
+TCGA-22-5489,No,I,Lobes,1912,SquamousCellCarcinoma,23618,no,2003,No,T1,8070/3,N0,M0,70,3.835616438356164,white,not reported,male,Dead,64,-23618,1939,no,no
+TCGA-37-A5EL,No,II,Lobes,454,SquamousCellCarcinoma,19371,no,2011,No,T3,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Dead,53,-19371,1958,yes,yes
+TCGA-21-1081,No,II,Lobes,284,SquamousCellCarcinoma,25440,no,1996,No,T2,8070/3,N1,M0,45,2.4657534246575343,white,not hispanic or latino,male,Dead,69,-25440,1927,no,yes
+TCGA-43-7658,Not Reported,I,Lobes,2023,SquamousCellCarcinoma,27734,yes,2006,No,T1,8070/3,N0,M0,12,0.6575342465753424,white,not reported,female,Dead,75,-27734,1931,no,yes
+TCGA-66-2734,No,I,Lobes,1311,SquamousCellCarcinoma,22919,no,2005,No,T2,8070/3,N0,M0,40,2.191780821917808,not reported,not reported,female,Alive,62,-22919,1943,no,no
+TCGA-56-8626,No,I,Lobes,17,SquamousCellCarcinoma,21908,no,2012,No,T1,8070/3,N0,MX,50,2.73972602739726,white,not hispanic or latino,male,Dead,59,-21908,1953,no,no
+TCGA-66-2766,No,III,Lobes,31,SquamousCellCarcinoma,19814,no,2007,No,T2,8070/3,N2,M0,80,4.383561643835616,not reported,not reported,male,Alive,54,-19814,1953,not reported,not reported
+TCGA-85-8277,No,III,Lobes,11,SquamousCellCarcinoma,25793,no,2011,No,T3,8070/3,N1,M0,NA,NA,white,not hispanic or latino,male,Dead,70,-25793,1941,no,no
+TCGA-43-8116,No,I,Lobes,358,SquamousCellCarcinoma,26790,no,2011,No,T1,8070/3,N0,M0,35,1.917808219178082,white,not hispanic or latino,male,Alive,73,-26790,1938,no,no
+TCGA-21-1077,Not Reported,II,Lobes,1058,SquamousCellCarcinoma,23523,yes,2006,No,T2,8070/3,N1,M0,56,3.0684931506849313,white,not hispanic or latino,male,Dead,64,-23523,1942,no,no
+TCGA-60-2724,No,III,Main bronchus,717,SquamousCellCarcinoma,17462,no,2008,No,T3,8070/3,N1,M0,60,3.287671232876712,white,not hispanic or latino,male,Alive,47,-17462,1961,yes,no
+TCGA-NC-A5HF,No,III,Lobes,NA,SquamousCellCarcinoma,27038,no,2008,No,T4,8071/3,N0,MX,NA,NA,white,not reported,male,Dead,74,-27038,1934,no,yes
+TCGA-92-8064,No,not reported,Lobes,160,SquamousCellCarcinoma,21417,no,2011,No,T2,8070/3,N0,MX,30,1.643835616438356,white,not hispanic or latino,male,Alive,58,-21417,1953,yes,no
+TCGA-60-2719,No,I,"Lung, NOS",1297,SquamousCellCarcinoma,30379,no,2007,No,T1,8070/3,N0,M0,7,0.3835616438356164,white,not hispanic or latino,female,Alive,83,-30379,1924,no,no
+TCGA-51-4081,No,II,Lobes,911,SquamousCellCarcinoma,20261,no,2009,No,T2,8070/3,N1,M0,80,4.383561643835616,white,not hispanic or latino,male,Alive,55,-20261,1954,yes,no
+TCGA-NC-A5HM,Yes,I,Lobes,1212,SquamousCellCarcinoma,27938,no,2010,No,T2,8070/3,N0,M0,50,2.73972602739726,white,not reported,male,Alive,76,-27938,1934,no,no
+TCGA-77-7337,No,II,"Lung, NOS",NA,SquamousCellCarcinoma,24065,no,2000,No,T2,8070/3,N1,M0,79.5,4.3561643835616435,white,not reported,male,Dead,65,-24065,1935,no,no
+TCGA-77-A5GA,No,I,Lobes,1280,SquamousCellCarcinoma,27762,no,2010,No,T2,8070/3,N0,M0,99,5.424657534246576,not reported,not reported,male,Alive,76,-27762,1934,no,no
+TCGA-XC-AA0X,No,I,Lobes,NA,SquamousCellCarcinoma,28211,no,2013,No,T1,8070/3,N0,M0,30,1.643835616438356,black or african american,not hispanic or latino,female,Dead,77,-28211,1936,no,no
+TCGA-85-8479,No,I,Lobes,468,Papillary squamous cell carcinoma,24350,no,2012,No,T1,8052/3,N0,M0,90,4.931506849315069,white,not hispanic or latino,male,Alive,66,-24350,1946,not reported,not reported
+TCGA-56-7221,Not Reported,I,Lobes,608,SquamousCellCarcinoma,28873,yes,2011,No,T2,8070/3,N0,M0,25,1.36986301369863,white,not reported,male,Alive,79,-28873,1932,no,no
+TCGA-77-A5GB,No,I,Lobes,NA,SquamousCellCarcinoma,32872,yes,2010,No,T2,8071/3,NX,M0,52,2.8493150684931505,not reported,not reported,male,Dead,90,-32872,1920,no,no
+TCGA-77-8138,No,I,Lobes,NA,SquamousCellCarcinoma,27225,no,2003,No,T2,8070/3,N0,M0,54,2.958904109589041,not reported,not reported,male,Dead,74,-27225,1929,no,no
+TCGA-68-8250,Yes,I,Lobes,244,SquamousCellCarcinoma,24118,no,2011,No,T1,8070/3,N0,MX,50,2.73972602739726,black or african american,not hispanic or latino,male,Alive,66,-24118,1945,no,no
+TCGA-58-A46J,No,II,Lobes,2589,SquamousCellCarcinoma,23653,no,2006,No,T2,8070/3,N1,M0,NA,NA,white,not hispanic or latino,male,Alive,64,-23653,1942,yes,no
+TCGA-98-A53H,No,I,Lobes,618,SquamousCellCarcinoma,27928,no,2012,No,T1,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,female,Alive,76,-27928,1936,no,no
+TCGA-18-3414,No,IV,Lobes,NA,SquamousCellCarcinoma,26938,no,2005,No,T4,8070/3,N1,M1,25,1.36986301369863,asian,not hispanic or latino,male,Dead,73,-26938,1932,no,no
+TCGA-34-2609,Not Reported,II,Lobes,951,SquamousCellCarcinoma,29871,yes,2004,No,T2,8070/3,N1,M0,60,3.287671232876712,black or african american,not hispanic or latino,male,Dead,81,-29871,1923,yes,no
+TCGA-34-2608,No,I,Lobes,1000,SquamousCellCarcinoma,30958,no,1999,No,T2,8070/3,N0,M0,60,3.287671232876712,white,not hispanic or latino,male,Dead,84,-30958,1915,no,no
+TCGA-85-A4CN,No,II,Lobes,1038,SquamousCellCarcinoma,20490,no,2012,No,T2,8070/3,N1,M0,NA,NA,white,not hispanic or latino,female,Alive,56,-20490,1956,yes,yes
+TCGA-56-7579,No,III,Lobes,44,SquamousCellCarcinoma,22632,no,2011,No,T3,8070/3,N1,M0,2,0.1095890410958904,white,not hispanic or latino,male,Dead,61,-22632,1950,yes,yes
+TCGA-51-4080,No,III,Lobes,NA,Basaloid squamous cell carcinoma,24054,no,2009,No,T4,8083/3,N1,NA,NA,NA,black or african american,not hispanic or latino,male,Dead,65,-24054,1944,no,no
+TCGA-63-A5MY,No,I,Lobes,1052,SquamousCellCarcinoma,23276,no,NA,No,T1,8070/3,N0,M0,40,2.191780821917808,not reported,not reported,male,Alive,63,-23276,NA,no,no
+TCGA-56-7822,No,II,Lobes,1,SquamousCellCarcinoma,27755,no,2011,No,T2,8070/3,N1,M0,60,3.287671232876712,black or african american,not hispanic or latino,male,Dead,75,-27755,1936,not reported,not reported
+TCGA-18-3416,Not Reported,II,Lobes,956,SquamousCellCarcinoma,30435,yes,2006,No,T2,8070/3,N1,M0,40,2.191780821917808,not reported,not reported,male,Dead,83,-30435,1923,no,no
+TCGA-56-8308,No,II,Lobes,517,SquamousCellCarcinoma,29139,yes,2012,No,T3,8070/3,N0,MX,63,3.452054794520548,white,not hispanic or latino,male,Alive,79,-29139,1933,yes,yes
+TCGA-18-3417,No,IV,"Lung, NOS",758,SquamousCellCarcinoma,24019,no,2006,No,T2,8070/3,N1,M1,25,1.36986301369863,not reported,not reported,male,Dead,65,-24019,1941,yes,no
+TCGA-21-1070,Not Reported,III,Lobes,3636,SquamousCellCarcinoma,22273,yes,2000,No,T3,8070/3,N0,M0,15,0.821917808219178,black or african american,not hispanic or latino,female,Alive,60,-22273,1940,no,no
+TCGA-21-1082,No,I,Lobes,3644,SquamousCellCarcinoma,22492,no,1997,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,61,-22492,1936,no,no
+TCGA-22-5474,No,I,Lobes,445,SquamousCellCarcinoma,27271,no,2005,No,T2,8070/3,N0,M0,50,2.73972602739726,white,not reported,male,Dead,74,-27271,1931,no,no
+TCGA-56-A4BY,No,I,Lobes,31,SquamousCellCarcinoma,24445,yes,2012,No,T2,8071/3,N0,MX,65,3.5616438356164384,white,not hispanic or latino,male,Dead,66,-24445,1946,no,yes
+TCGA-66-2770,No,I,Lobes,700,SquamousCellCarcinoma,28945,no,2007,No,T2,8070/3,N0,M0,25,1.36986301369863,not reported,not reported,male,Alive,79,-28945,1928,not reported,not reported
+TCGA-43-3920,No,I,Lobes,1007,SquamousCellCarcinoma,26059,no,2009,No,T2,8070/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,male,Alive,71,-26059,1938,no,no
+TCGA-60-2707,No,I,Lobes,NA,SquamousCellCarcinoma,25758,no,2003,No,T2,8070/3,N0,M0,49,2.684931506849315,not reported,hispanic or latino,male,Dead,70,-25758,1933,no,no
+TCGA-66-2767,No,III,Lobes,61,SquamousCellCarcinoma,22888,no,2007,No,T2,8070/3,N3,M0,43,2.356164383561644,not reported,not reported,male,Alive,62,-22888,1945,not reported,not reported
+TCGA-58-8386,No,IV,Lobes,NA,SquamousCellCarcinoma,27455,no,2008,No,T3,8070/3,NX,M1,65,3.5616438356164384,not reported,not reported,male,Dead,75,-27455,1933,no,no
+TCGA-56-8503,No,II,Lobes,41,SquamousCellCarcinoma,28095,no,2012,No,T3,8070/3,N0,M0,91,4.986301369863014,white,not hispanic or latino,female,Alive,76,-28095,1936,not reported,not reported
+TCGA-46-3767,No,I,Lobes,396,SquamousCellCarcinoma,27912,no,2009,No,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,76,-27912,1933,not reported,not reported
+TCGA-22-5472,Not Reported,I,Lobes,NA,SquamousCellCarcinoma,24482,yes,2005,No,T2,8070/3,N0,M0,35,1.917808219178082,white,not hispanic or latino,male,Dead,67,-24482,1938,no,no
+TCGA-LA-A7SW,No,III,Lobes,146,SquamousCellCarcinoma,26116,no,2013,No,T3,8070/3,N1,MX,37,2.0273972602739727,black or african american,not hispanic or latino,male,Dead,71,-26116,1942,yes,yes
+TCGA-77-7138,No,I,Lobes,NA,SquamousCellCarcinoma,24594,no,1999,No,T2,8070/3,N0,M0,20,1.095890410958904,not reported,not reported,male,Dead,67,-24594,1932,no,no
+TCGA-56-7730,No,II,Lobes,6,SquamousCellCarcinoma,26699,no,2011,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Dead,73,-26699,1938,yes,yes
+TCGA-37-4132,No,IV,Lobes,227,SquamousCellCarcinoma,22520,no,2010,No,T2,8070/3,N0,M1,NA,NA,white,not hispanic or latino,female,Alive,61,-22520,1949,no,no
+TCGA-O2-A52V,No,II,Lobes,NA,SquamousCellCarcinoma,27449,no,2006,No,T3,8070/3,N0,MX,1,0.0547945205479452,black or african american,not hispanic or latino,female,Dead,75,-27449,1931,no,yes
+TCGA-56-7580,No,I,Lobes,925,SquamousCellCarcinoma,30740,no,2011,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,84,-30740,1927,no,no
+TCGA-18-3408,No,I,Lobes,2099,SquamousCellCarcinoma,28171,no,2004,No,T2,8070/3,N0,M0,30,1.643835616438356,white,not hispanic or latino,female,Dead,77,-28171,1927,no,yes
+TCGA-98-7454,No,I,Lobes,652,SquamousCellCarcinoma,26827,no,2011,No,T2,8070/3,N0,M0,60,3.287671232876712,white,not hispanic or latino,male,Alive,73,-26827,1938,no,no
+TCGA-37-3789,No,I,Lobes,13,SquamousCellCarcinoma,23782,no,2006,No,T2,8070/3,N0,NA,NA,NA,white,not hispanic or latino,male,Alive,65,-23782,1941,not reported,not reported
+TCGA-96-8170,No,II,Lobes,531,SquamousCellCarcinoma,27558,no,2011,No,T1,8070/3,N1,M0,50,2.73972602739726,white,not hispanic or latino,female,Alive,75,-27558,1936,no,no
+TCGA-66-2753,No,I,Lobes,31,SquamousCellCarcinoma,25506,no,2007,No,T2,8070/3,N0,M0,162,8.876712328767123,not reported,not reported,male,Alive,69,-25506,1938,not reported,not reported
+TCGA-66-2763,No,I,Lobes,30,SquamousCellCarcinoma,23315,no,2007,No,T2,8070/3,N0,M0,40,2.191780821917808,not reported,not reported,female,Alive,63,-23315,1944,not reported,not reported
+TCGA-63-7023,No,II,Lobes,1682,SquamousCellCarcinoma,NA,no,2008,No,T1,8070/3,N1,M0,55,3.0136986301369864,not reported,not reported,male,Alive,NA,NA,NA,yes,yes
+TCGA-21-5783,No,I,Lobes,NA,SquamousCellCarcinoma,27904,no,2004,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Dead,76,-27904,1928,no,no
+TCGA-21-1083,Not Reported,I,Lobes,267,SquamousCellCarcinoma,27708,yes,1997,No,T1,8070/3,N0,M0,240,13.150684931506849,white,not hispanic or latino,male,Dead,75,-27708,1922,no,no
+TCGA-22-5479,No,I,Lobes,1651,SquamousCellCarcinoma,23563,no,2004,No,T2,8070/3,N0,M0,35,1.917808219178082,white,not reported,male,Dead,64,-23563,1940,yes,no
+TCGA-33-AASI,No,II,Lobes,NA,SquamousCellCarcinoma,23965,no,2008,No,T2,8070/3,N1,MX,60,3.287671232876712,black or african american,not hispanic or latino,female,Dead,65,-23965,1943,yes,yes
+TCGA-56-5897,No,I,Lobes,378,SquamousCellCarcinoma,27118,no,2010,No,T1,8070/3,N0,MX,NA,NA,white,not hispanic or latino,male,Alive,74,-27118,1936,no,no
+TCGA-22-4601,No,III,Lobes,1057,SquamousCellCarcinoma,26937,no,2003,No,T4,8070/3,N0,M0,60,3.287671232876712,white,not reported,female,Dead,73,-26937,1930,no,not reported
+TCGA-43-A56V,Yes,III,Lobes,366,SquamousCellCarcinoma,22475,no,2012,No,T2,8070/3,N2,M0,48,2.6301369863013697,black or african american,not hispanic or latino,male,Alive,61,-22475,1951,yes,no
+TCGA-58-A46N,No,I,Lobes,910,Basaloid squamous cell carcinoma,19050,no,2011,No,T2,8083/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,male,Alive,52,-19050,1959,no,yes
+TCGA-77-A5GH,No,I,Lobes,1182,SquamousCellCarcinoma,29843,no,2011,No,T2,8070/3,N0,M0,11,0.6027397260273972,not reported,not reported,male,Alive,81,-29843,1930,no,no
+TCGA-22-5482,No,I,Lobes,357,SquamousCellCarcinoma,29657,no,2005,No,T2,8070/3,N0,M0,60,3.287671232876712,white,not reported,male,Dead,81,-29657,1924,no,no
+TCGA-56-1622,No,I,Lobes,NA,SquamousCellCarcinoma,21371,no,2007,No,T2,8070/3,N0,M0,86,4.712328767123288,white,not hispanic or latino,male,Dead,58,-21371,1949,no,no
+TCGA-NC-A5HH,No,I,Lobes,37,Basaloid squamous cell carcinoma,19485,no,2009,No,T1,8083/3,N0,M0,60,3.287671232876712,white,not reported,male,Alive,53,-19485,1956,no,no
+TCGA-60-2723,No,I,"Lung, NOS",1092,SquamousCellCarcinoma,27225,no,2008,No,T2,8070/3,N0,M0,58,3.1780821917808217,white,not hispanic or latino,female,Alive,74,-27225,1934,no,no
+TCGA-18-4086,No,I,Lobes,NA,SquamousCellCarcinoma,23731,no,2009,No,T2,8070/3,N0,M0,30,1.643835616438356,not reported,not reported,male,Dead,64,-23731,1945,not reported,not reported
+TCGA-85-6798,No,III,Lobes,34,SquamousCellCarcinoma,20837,no,2011,No,T3,8070/3,N1,M0,35,1.917808219178082,white,not hispanic or latino,male,Dead,57,-20837,1954,yes,no
+TCGA-68-7755,No,II,Lobes,83,SquamousCellCarcinoma,21936,no,2011,No,T1,8070/3,N1,M0,78,4.273972602739726,white,not hispanic or latino,female,Alive,60,-21936,1951,yes,no
+TCGA-98-A53I,No,II,Lobes,565,SquamousCellCarcinoma,23502,no,2012,No,T2,8070/3,N1,M0,70,3.835616438356164,white,not hispanic or latino,male,Alive,64,-23502,1948,yes,no
+TCGA-66-2794,No,III,Lobes,1645,SquamousCellCarcinoma,23710,no,2006,No,T4,8070/3,N2,M0,100,5.47945205479452,not reported,not reported,male,Alive,64,-23710,1942,no,yes
+TCGA-77-8145,No,III,"Lung, NOS",NA,SquamousCellCarcinoma,26707,no,2000,No,T4,8070/3,N1,M0,57,3.1232876712328768,not reported,not reported,male,Dead,73,-26707,1927,no,yes
+TCGA-85-A510,No,II,Lobes,482,SquamousCellCarcinoma,27067,no,2012,No,T2,8070/3,N1,M0,45,2.4657534246575343,white,not hispanic or latino,female,Alive,74,-27067,1938,no,no
+TCGA-58-8393,No,I,Lobes,1058,SquamousCellCarcinoma,25132,no,2010,No,T2,8070/3,N0,M0,7,0.3835616438356164,white,not hispanic or latino,female,Alive,68,-25132,1942,no,no
+TCGA-77-8156,No,I,Lobes,1106,SquamousCellCarcinoma,22198,no,2010,No,T2,8070/3,N0,M0,57.5,3.1506849315068495,not reported,not reported,male,Alive,60,-22198,1950,no,no
+TCGA-NC-A5HP,No,IV,Lobes,730,SquamousCellCarcinoma,25286,no,2011,No,T2,8071/3,N0,M1,50,2.73972602739726,white,not reported,male,Dead,69,-25286,1942,yes,yes
+TCGA-52-7622,No,I,Lobes,862,SquamousCellCarcinoma,22807,no,2010,No,T1,8070/3,N0,M0,22,1.2054794520547945,white,hispanic or latino,female,Alive,62,-22807,1948,yes,no
+TCGA-60-2725,No,I,Lobes,816,SquamousCellCarcinoma,27073,no,2009,No,T2,8070/3,N0,M0,56,3.0684931506849313,white,not hispanic or latino,male,Alive,74,-27073,1935,no,no
+TCGA-77-8153,No,I,Lobes,1992,SquamousCellCarcinoma,28253,no,2008,No,T2,8070/3,N0,M0,25,1.36986301369863,not reported,not reported,female,Alive,77,-28253,1931,no,no
+TCGA-56-8622,No,I,Lobes,55,SquamousCellCarcinoma,24861,no,2012,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,68,-24861,1944,not reported,not reported
+TCGA-18-3421,No,I,Lobes,2645,SquamousCellCarcinoma,23972,no,2007,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,65,-23972,1942,no,no
+TCGA-66-2795,No,III,Lobes,122,SquamousCellCarcinoma,24897,no,2008,No,T4,8070/3,N1,M0,86,4.712328767123288,not reported,not reported,male,Alive,68,-24897,1940,not reported,not reported
+TCGA-85-7843,No,II,Lobes,35,SquamousCellCarcinoma,18353,no,2011,No,T2,8070/3,N1,M0,35,1.917808219178082,white,not hispanic or latino,male,Alive,50,-18353,1961,not reported,not reported
+TCGA-85-A4JB,No,II,Lobes,942,SquamousCellCarcinoma,27315,no,2012,No,T3,8070/3,N0,M0,25,1.36986301369863,white,not hispanic or latino,male,Alive,74,-27315,1938,yes,no
+TCGA-43-2581,No,III,Lobes,1176,SquamousCellCarcinoma,17447,no,2009,No,T3,8070/3,N1,M0,30,1.643835616438356,white,not hispanic or latino,female,Alive,47,-17447,1962,yes,no
+TCGA-77-A5G8,No,II,Lobes,1884,SquamousCellCarcinoma,25921,no,2009,No,T3,8070/3,N0,M0,90,4.931506849315069,not reported,not reported,male,Alive,70,-25921,1939,not reported,not reported
+TCGA-66-2782,No,II,Lobes,NA,SquamousCellCarcinoma,26237,no,2004,No,T3,8070/3,N0,M0,50,2.73972602739726,not reported,not reported,male,Dead,71,-26237,1933,yes,no
+TCGA-39-5029,No,III,Lobes,NA,SquamousCellCarcinoma,24713,no,2006,No,T1,8070/3,N2,M0,192,10.520547945205479,white,hispanic or latino,male,Dead,67,-24713,1939,yes,no
+TCGA-85-8666,No,I,Lobes,475,SquamousCellCarcinoma,23906,no,2011,No,T2,8070/3,N0,M0,55,3.0136986301369864,white,not hispanic or latino,male,Dead,65,-23906,1946,no,no
+TCGA-96-8169,No,I,Lobes,557,SquamousCellCarcinoma,24674,no,2011,No,T1,8070/3,N0,M0,35,1.917808219178082,white,not hispanic or latino,female,Alive,67,-24674,1944,no,no
+TCGA-34-A5IX,No,II,Lobes,1031,SquamousCellCarcinoma,29391,no,2012,No,T3,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,80,-29391,1932,no,no
+TCGA-52-7809,No,I,Lobes,NA,Basaloid squamous cell carcinoma,27233,no,2009,No,T2,8083/3,N0,M0,60,3.287671232876712,white,not hispanic or latino,male,Dead,74,-27233,1935,not reported,not reported
+TCGA-34-5927,No,I,Lobes,1361,SquamousCellCarcinoma,25857,no,2009,No,T1,8070/3,N0,M0,NA,NA,white,not reported,female,Alive,70,-25857,1939,yes,no
+TCGA-66-2800,No,III,Lobes,1492,SquamousCellCarcinoma,25810,no,2004,No,T4,8070/3,N0,M0,75,4.109589041095891,not reported,not reported,male,Alive,70,-25810,1934,no,no
+TCGA-98-A53A,No,I,Lobes,274,SquamousCellCarcinoma,25662,no,2012,No,T2,8070/3,N0,M0,80,4.383561643835616,black or african american,not hispanic or latino,male,Dead,70,-25662,1942,no,no
+TCGA-85-8481,No,II,Lobes,21,SquamousCellCarcinoma,25782,no,2012,No,T3,8070/3,N0,M0,80,4.383561643835616,white,not hispanic or latino,male,Dead,70,-25782,1942,no,no
+TCGA-43-6770,No,I,Lobes,653,SquamousCellCarcinoma,21683,no,2011,No,T2,8070/3,N0,MX,34,1.8630136986301369,black or african american,not hispanic or latino,female,Alive,59,-21683,1952,yes,no
+TCGA-94-8490,No,II,Lobes,153,SquamousCellCarcinoma,25588,no,2011,No,T3,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,70,-25588,1941,not reported,no
+TCGA-43-7656,No,I,Lobes,596,SquamousCellCarcinoma,25991,no,2011,No,T1,8070/3,N0,MX,45,2.4657534246575343,white,not hispanic or latino,male,Alive,71,-25991,1940,no,no
+TCGA-66-2787,No,I,Lobes,1217,SquamousCellCarcinoma,21124,no,2004,No,T1,8070/3,N0,M0,40,2.191780821917808,not reported,not reported,male,Alive,57,-21124,1947,no,no
+TCGA-85-A4JC,No,II,Lobes,455,SquamousCellCarcinoma,30942,no,2012,No,T2,8070/3,N0,M0,25,1.36986301369863,white,not hispanic or latino,male,Dead,84,-30942,1928,yes,no
+TCGA-77-6844,No,III,Lobes,NA,SquamousCellCarcinoma,27220,no,2002,No,T3,8070/3,N1,M0,45,2.4657534246575343,white,not reported,male,Dead,74,-27220,1928,no,yes
+TCGA-90-7767,No,II,Lobes,89,SquamousCellCarcinoma,20534,no,2011,No,T2,8070/3,N1,MX,25,1.36986301369863,white,not hispanic or latino,male,Alive,56,-20534,1955,not reported,not reported
+TCGA-33-6737,Not Reported,III,Lobes,NA,SquamousCellCarcinoma,26033,yes,2008,No,T2,8070/3,N2,M0,20,1.095890410958904,white,not reported,male,Dead,71,-26033,1937,yes,no
+TCGA-63-A5MG,No,I,Lobes,2148,SquamousCellCarcinoma,24957,no,NA,No,T2,8070/3,N0,M0,NA,NA,not reported,not reported,male,Alive,68,-24957,NA,no,no
+TCGA-NK-A5CT,No,I,Lobes,1997,SquamousCellCarcinoma,25726,yes,2008,No,T1,8070/3,N0,M0,80,4.383561643835616,white,not hispanic or latino,male,Alive,70,-25726,1938,no,no
+TCGA-58-8387,No,II,Lobes,NA,SquamousCellCarcinoma,21952,no,2010,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Dead,60,-21952,1950,yes,no
+TCGA-66-2788,No,I,Lobes,699,SquamousCellCarcinoma,20637,no,2008,No,T2,8070/3,N0,M0,80,4.383561643835616,not reported,not reported,male,Alive,56,-20637,1952,no,no
+TCGA-46-3766,No,I,Lobes,370,SquamousCellCarcinoma,22707,no,2009,No,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,female,Alive,62,-22707,1947,no,no
+TCGA-39-5036,No,I,Lobes,2165,SquamousCellCarcinoma,26963,no,2007,No,T2,8070/3,N0,M0,63,3.452054794520548,white,not reported,male,Alive,73,-26963,1934,no,no
+TCGA-66-2759,No,III,Lobes,762,SquamousCellCarcinoma,24287,no,2007,No,T2,8070/3,N2,M0,16,0.8767123287671232,not reported,not reported,male,Alive,66,-24287,1941,yes,yes
+TCGA-34-5241,No,I,Lobes,428,SquamousCellCarcinoma,29098,no,2009,No,T2,8070/3,N0,M0,25,1.36986301369863,white,not hispanic or latino,male,Dead,79,-29098,1930,no,no
+TCGA-22-4599,No,I,Overlapping lesion of lung,1161,SquamousCellCarcinoma,26925,no,2002,No,T2,8070/3,N0,M0,25,1.36986301369863,white,not reported,female,Dead,73,-26925,1929,not reported,not reported
+TCGA-NC-A5HG,No,III,Lobes,1963,Basaloid squamous cell carcinoma,21608,no,2009,No,T2,8083/3,N2,M0,80,4.383561643835616,white,not reported,male,Alive,59,-21608,1950,yes,yes
+TCGA-90-7766,Not Reported,I,Lobes,289,SquamousCellCarcinoma,24354,yes,2011,No,T1,8070/3,N0,MX,30,1.643835616438356,white,not hispanic or latino,female,Alive,66,-24354,1945,no,no
+TCGA-56-8309,No,I,Lobes,428,SquamousCellCarcinoma,24382,no,2012,No,T1,8070/3,N0,MX,50,2.73972602739726,white,not hispanic or latino,male,Alive,66,-24382,1946,no,no
+TCGA-43-2578,Not Reported,I,Lobes,684,SquamousCellCarcinoma,21747,yes,2009,No,T1,8070/3,N0,M0,64,3.506849315068493,white,not hispanic or latino,female,Dead,59,-21747,1950,no,no
+TCGA-22-4594,No,III,Lobes,1470,SquamousCellCarcinoma,22115,no,2002,No,T3,8070/3,N2,M0,40,2.191780821917808,not reported,not reported,female,Dead,60,-22115,1942,not reported,not reported
+TCGA-96-A4JL,No,II,Lobes,842,SquamousCellCarcinoma,28686,no,2012,No,T2,8070/3,N1,M0,NA,NA,asian,not hispanic or latino,female,Alive,78,-28686,1934,yes,no
+TCGA-63-6202,No,II,Lobes,1602,SquamousCellCarcinoma,NA,no,2008,No,T2,8070/3,N0,M0,35,1.917808219178082,not reported,not reported,male,Alive,NA,NA,NA,no,no
+TCGA-21-5782,No,I,Lobes,962,SquamousCellCarcinoma,24969,no,2004,No,T2,8070/3,N0,M0,48,2.6301369863013697,white,not hispanic or latino,female,Dead,68,-24969,1936,no,no
+TCGA-NK-A5CR,No,I,Lobes,2542,SquamousCellCarcinoma,28126,no,2007,No,T2,8070/3,N0,MX,40,2.191780821917808,not reported,not hispanic or latino,male,Alive,77,-28126,1930,no,no
+TCGA-60-2710,No,II,Lobes,2024,SquamousCellCarcinoma,24669,no,2005,Yes,T1,8070/3,N1,M0,63,3.452054794520548,white,not hispanic or latino,female,Alive,67,-24669,1938,yes,no
+TCGA-66-2768,No,II,Lobes,61,SquamousCellCarcinoma,20970,no,2007,No,T2,8070/3,N1,M0,NA,NA,not reported,not reported,male,Alive,57,-20970,1950,not reported,not reported
+TCGA-58-8391,No,III,Main bronchus,2167,SquamousCellCarcinoma,21102,no,2006,No,T2,8070/3,N2,M0,30,1.643835616438356,white,not hispanic or latino,female,Alive,57,-21102,1949,yes,yes
+TCGA-21-1075,No,II,Lobes,2134,SquamousCellCarcinoma,21093,no,2002,No,T2,8070/3,N1,M0,74,4.054794520547945,white,not hispanic or latino,male,Alive,57,-21093,1945,no,no
+TCGA-94-A5I6,No,II,Lobes,538,SquamousCellCarcinoma,22949,no,2012,No,T3,8070/3,N0,M0,80,4.383561643835616,white,not hispanic or latino,male,Alive,62,-22949,1950,yes,no
+TCGA-68-7756,No,III,Lobes,202,SquamousCellCarcinoma,30763,no,2011,No,T4,8070/3,N1,MX,20,1.095890410958904,white,not hispanic or latino,male,Alive,84,-30763,1927,yes,yes
+TCGA-85-A511,No,II,Lobes,0,SquamousCellCarcinoma,22759,no,2012,No,T2,8070/3,N1,M0,40,2.191780821917808,white,not hispanic or latino,male,Dead,62,-22759,1950,no,no
+TCGA-21-1079,No,III,Lobes,965,SquamousCellCarcinoma,26176,no,1995,No,T3,8070/3,N0,M0,80,4.383561643835616,white,not hispanic or latino,male,Dead,71,-26176,1924,no,no
+TCGA-66-2757,No,I,Lobes,30,SquamousCellCarcinoma,24014,no,2007,No,T1,8070/3,N0,M0,72,3.9452054794520546,not reported,not reported,female,Dead,65,-24014,1942,yes,yes
+TCGA-58-A46M,No,II,Lobes,1072,SquamousCellCarcinoma,22592,no,2010,No,T2,8070/3,N1,M0,NA,NA,white,not hispanic or latino,male,Alive,61,-22592,1949,no,no
+TCGA-56-A4ZJ,No,I,Lobes,640,SquamousCellCarcinoma,27516,yes,2012,No,T1,8072/3,N0,M0,100,5.47945205479452,white,not hispanic or latino,female,Alive,75,-27516,1937,no,no
+TCGA-37-3783,No,III,Lobes,122,SquamousCellCarcinoma,18728,no,2006,No,T3,8070/3,N2,M0,NA,NA,white,not hispanic or latino,male,Alive,51,-18728,1955,not reported,not reported
+TCGA-60-2708,No,II,Lobes,2447,SquamousCellCarcinoma,23691,no,2004,No,T2,8070/3,N1,M0,20,1.095890410958904,white,not hispanic or latino,female,Alive,64,-23691,1940,yes,no
+TCGA-66-2744,No,II,Lobes,30,SquamousCellCarcinoma,26084,no,2006,No,T2,8070/3,N1,M0,63,3.452054794520548,not reported,not reported,male,Alive,71,-26084,1935,not reported,not reported
+TCGA-33-4533,Not Reported,I,"Lung, NOS",4068,SquamousCellCarcinoma,28001,yes,2001,No,T2,8070/3,N0,M0,50,2.73972602739726,black or african american,not hispanic or latino,female,Alive,76,-28001,1925,no,no
+TCGA-22-0940,No,II,"Lung, NOS",608,SquamousCellCarcinoma,26272,no,2000,No,T1,8070/3,N1,M0,25,1.36986301369863,white,not hispanic or latino,male,Dead,71,-26272,1929,no,no
+TCGA-33-AASL,No,I,Lobes,NA,SquamousCellCarcinoma,20940,no,2000,No,T1,8070/3,N0,MX,60,3.287671232876712,black or african american,not hispanic or latino,female,Dead,57,-20940,1943,yes,yes
+TCGA-60-2712,Not Reported,II,Lobes,274,SquamousCellCarcinoma,29131,yes,2006,No,T2,8070/3,N1,M0,10,0.547945205479452,white,not hispanic or latino,female,Dead,79,-29131,1927,no,no
+TCGA-21-A5DI,No,I,Lobes,979,SquamousCellCarcinoma,28374,yes,2006,No,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,77,-28374,1929,no,no
+TCGA-85-8070,No,I,Lobes,960,SquamousCellCarcinoma,26183,no,2011,No,T2,8070/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,male,Alive,71,-26183,1940,no,no
+TCGA-85-7697,No,II,Lobes,1063,SquamousCellCarcinoma,17921,no,2011,No,T3,8070/3,N0,M0,30,1.643835616438356,white,not hispanic or latino,male,Alive,49,-17921,1962,yes,no
+TCGA-56-8628,No,I,Lobes,616,SquamousCellCarcinoma,28805,no,2012,No,T1,8070/3,N0,MX,NA,NA,white,not hispanic or latino,male,Alive,78,-28805,1934,no,no
+TCGA-63-5131,No,II,"Lung, NOS",NA,SquamousCellCarcinoma,NA,no,2008,No,T2,8070/3,N1,M0,50,2.73972602739726,not reported,not reported,male,Dead,NA,NA,NA,no,no
+TCGA-77-7142,No,I,Lobes,2227,SquamousCellCarcinoma,21796,no,2007,No,T2,8070/3,N0,M0,52.5,2.8767123287671232,white,not reported,female,Alive,59,-21796,1948,no,no
+TCGA-NK-A5D1,No,II,Lobes,511,SquamousCellCarcinoma,20909,yes,2011,No,T2,8070/3,N1,M0,90,4.931506849315069,white,not hispanic or latino,male,Alive,57,-20909,1954,yes,yes
+TCGA-22-5491,No,I,Lobes,1713,SquamousCellCarcinoma,27145,no,2003,No,T1,8070/3,N0,M0,57,3.1232876712328768,white,not reported,male,Dead,74,-27145,1929,not reported,not reported
+TCGA-63-A5MB,No,I,Lobes,3123,SquamousCellCarcinoma,22930,no,NA,No,T2,8070/3,N0,M0,25,1.36986301369863,not reported,not reported,male,Alive,62,-22930,NA,yes,no
+TCGA-21-1072,No,I,"Lung, NOS",3016,SquamousCellCarcinoma,27397,no,2001,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,75,-27397,1926,no,no
+TCGA-56-6546,No,II,Lobes,NA,SquamousCellCarcinoma,24594,no,2011,No,T2,8070/3,N0,MX,NA,NA,white,not hispanic or latino,male,Dead,67,-24594,1944,no,no
+TCGA-85-8071,No,II,Lobes,815,SquamousCellCarcinoma,19158,no,2011,No,T1,8070/3,N1,M0,30,1.643835616438356,white,not hispanic or latino,male,Alive,52,-19158,1959,no,no
+TCGA-77-8131,No,I,Lobes,NA,SquamousCellCarcinoma,26611,no,2000,No,T2,8070/3,NX,M0,69,3.780821917808219,not reported,not reported,male,Dead,72,-26611,1928,not reported,not reported
+TCGA-85-A512,No,II,Lobes,465,SquamousCellCarcinoma,16811,no,2012,No,T1,8070/3,N1,M0,25,1.36986301369863,white,not hispanic or latino,male,Alive,46,-16811,1966,yes,no
+TCGA-33-A5GW,No,II,Lobes,9,SquamousCellCarcinoma,24586,no,2012,No,T1,8070/3,N1,MX,50,2.73972602739726,white,not hispanic or latino,male,Dead,67,-24586,1945,no,no
+TCGA-33-A4WN,No,I,Lobes,NA,SquamousCellCarcinoma,22268,no,2011,No,T2,8070/3,N0,MX,60,3.287671232876712,white,not hispanic or latino,male,Dead,60,-22268,1951,not reported,not reported
+TCGA-56-7731,No,I,Lobes,0,SquamousCellCarcinoma,24441,no,2011,No,T2,8070/3,N0,MX,100,5.47945205479452,white,not hispanic or latino,female,Dead,66,-24441,1945,no,no
+TCGA-43-5668,Not Reported,II,Lobes,349,SquamousCellCarcinoma,28635,yes,2010,No,T1,8070/3,N1,M0,20,1.095890410958904,white,not hispanic or latino,male,Dead,78,-28635,1932,yes,no
+TCGA-60-2709,No,I,Lobes,1505,SquamousCellCarcinoma,25453,no,2004,No,T2,8070/3,N0,MX,157.5,8.63013698630137,black or african american,not hispanic or latino,male,Alive,69,-25453,1935,no,no
+TCGA-85-7844,No,I,Lobes,911,SquamousCellCarcinoma,26141,no,2011,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,71,-26141,1940,no,no
+TCGA-43-8118,Yes,I,Lobes,NA,SquamousCellCarcinoma,20224,no,2011,No,T1,8070/3,N0,M0,20,1.095890410958904,white,not hispanic or latino,female,Dead,55,-20224,1956,yes,no
+TCGA-56-A4ZK,No,I,Lobes,570,SquamousCellCarcinoma,28039,no,2012,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,female,Alive,76,-28039,1936,no,no
+TCGA-52-7810,No,II,Overlapping lesion of lung,923,SquamousCellCarcinoma,22241,no,2008,No,T3,8070/3,N0,M0,20,1.095890410958904,white,not hispanic or latino,female,Alive,60,-22241,1948,yes,yes
+TCGA-60-2695,No,I,Lobes,642,Basaloid squamous cell carcinoma,27211,no,2009,No,T2,8083/3,N0,M0,64,3.506849315068493,white,not hispanic or latino,female,Alive,74,-27211,1935,no,no
+TCGA-85-8352,No,III,Lobes,67,SquamousCellCarcinoma,24788,no,2011,No,T3,8070/3,N1,M0,50,2.73972602739726,white,not hispanic or latino,male,Dead,67,-24788,1944,no,no
+TCGA-NC-A5HE,No,II,Lobes,2336,SquamousCellCarcinoma,22179,yes,2008,No,T2,8070/3,N1,M0,30,1.643835616438356,white,not reported,male,Alive,60,-22179,1948,yes,yes
+TCGA-85-8350,No,I,Lobes,683,SquamousCellCarcinoma,22526,no,2011,No,T1,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,61,-22526,1950,no,no
+TCGA-63-7021,No,I,Lobes,2142,SquamousCellCarcinoma,NA,no,2007,No,T1,8070/3,N0,M0,21,1.1506849315068493,not reported,not reported,male,Alive,NA,NA,NA,no,no
+TCGA-37-A5EM,No,II,Lobes,867,SquamousCellCarcinoma,18011,no,2011,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,49,-18011,1962,no,no
+TCGA-NC-A5HJ,No,II,Lobes,NA,SquamousCellCarcinoma,21730,no,2009,No,T3,8070/3,N0,M0,78,4.273972602739726,white,not reported,male,Dead,59,-21730,1950,no,no
+TCGA-77-7140,Not Reported,II,Lobes,NA,SquamousCellCarcinoma,25303,yes,2002,No,T2,8070/3,N1,M0,NA,NA,white,not reported,female,Dead,69,-25303,1933,no,no
+TCGA-22-0944,No,I,"Lung, NOS",223,SquamousCellCarcinoma,22329,no,2000,No,T2,8070/3,N0,M0,38,2.0821917808219177,white,not hispanic or latino,male,Dead,61,-22329,1939,not reported,not reported
+TCGA-56-7582,No,I,Lobes,601,SquamousCellCarcinoma,30678,no,2011,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,83,-30678,1928,no,no
+TCGA-60-2713,No,I,Lobes,1731,SquamousCellCarcinoma,23630,no,2006,No,T2,8070/3,N0,M0,110,6.027397260273973,white,not hispanic or latino,male,Alive,64,-23630,1942,no,no
+TCGA-O2-A52Q,No,III,Lobes,NA,SquamousCellCarcinoma,16429,no,2005,No,T3,8070/3,N1,MX,1,0.0547945205479452,white,not hispanic or latino,female,Dead,44,-16429,1961,no,yes
+TCGA-77-A5G3,No,II,Main bronchus,4570,SquamousCellCarcinoma,23171,no,2002,No,T2,8070/3,N1,M0,40,2.191780821917808,not reported,not reported,male,Alive,63,-23171,1939,no,no
+TCGA-90-A59Q,No,II,Lobes,269,SquamousCellCarcinoma,22420,no,2012,No,T2,8070/3,N1,MX,80,4.383561643835616,white,not hispanic or latino,female,Dead,61,-22420,1951,yes,yes
+TCGA-22-5483,No,II,Lobes,573,SquamousCellCarcinoma,27109,no,2005,No,T1,8070/3,N1,M0,50,2.73972602739726,white,not reported,male,Dead,74,-27109,1931,yes,no
+TCGA-94-7033,Not Reported,I,Lobes,640,SquamousCellCarcinoma,26948,yes,2011,No,T2,8070/3,N0,MX,30,1.643835616438356,white,not hispanic or latino,male,Alive,73,-26948,1938,yes,no
+TCGA-85-7696,No,I,Lobes,1111,SquamousCellCarcinoma,23413,no,2011,No,T1,8070/3,N0,M0,30,1.643835616438356,white,not hispanic or latino,male,Alive,64,-23413,1947,no,no
+TCGA-39-5030,No,III,Lobes,59,SquamousCellCarcinoma,29893,no,2006,No,T2,8070/3,N2,M0,8,0.4383561643835616,asian,not reported,female,Dead,81,-29893,1925,no,no
+TCGA-77-8130,No,II,Lobes,4765,SquamousCellCarcinoma,25260,no,2000,No,T2,8070/3,N1,M0,32.25,1.7671232876712328,not reported,not reported,male,Alive,69,-25260,1931,no,no
+TCGA-94-A4VJ,No,I,Main bronchus,430,SquamousCellCarcinoma,25991,no,2012,No,T1,8070/3,N0,M0,37.5,2.0547945205479454,white,not hispanic or latino,female,Alive,71,-25991,1941,no,no
+TCGA-60-2714,No,II,"Lung, NOS",1531,SquamousCellCarcinoma,24169,no,2006,Yes,T2,8070/3,N1,M0,90,4.931506849315069,white,not hispanic or latino,female,Alive,66,-24169,1940,yes,no
+TCGA-94-7557,Not Reported,I,Lobes,NA,SquamousCellCarcinoma,26802,yes,2011,No,T2,8070/3,N0,M0,NA,NA,black or african american,not hispanic or latino,male,Dead,73,-26802,1938,no,no
+TCGA-77-6842,No,II,Overlapping lesion of lung,NA,SquamousCellCarcinoma,28861,no,2000,No,T2,8070/3,N1,M0,22.5,1.2328767123287672,white,not reported,male,Dead,79,-28861,1921,no,no
+TCGA-NC-A5HK,No,II,Overlapping lesion of lung,128,SquamousCellCarcinoma,21531,no,2010,No,T3,8070/3,N0,M0,40,2.191780821917808,white,not reported,female,Alive,58,-21531,1952,yes,no
+TCGA-34-5928,No,II,Lobes,1196,SquamousCellCarcinoma,30334,no,2010,No,T2,8070/3,N1,M0,40,2.191780821917808,white,not hispanic or latino,female,Alive,83,-30334,1927,no,no
+TCGA-NC-A5HQ,No,III,Lobes,NA,SquamousCellCarcinoma,25781,no,2011,No,T3,8071/3,N2,M0,NA,NA,white,not reported,male,Dead,70,-25781,1941,yes,yes
+TCGA-34-5240,No,II,Lobes,1541,Basaloid squamous cell carcinoma,26735,no,2009,No,T2,8083/3,N1,M0,56,3.0684931506849313,white,not hispanic or latino,female,Alive,73,-26735,1936,yes,no
+TCGA-34-5929,No,I,Lobes,NA,SquamousCellCarcinoma,28844,no,2010,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,female,Dead,78,-28844,1932,no,no
+TCGA-85-8287,No,I,Lobes,13,SquamousCellCarcinoma,26401,no,2011,No,T1,8070/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,male,Dead,72,-26401,1939,no,no
+TCGA-85-8049,No,I,Lobes,579,SquamousCellCarcinoma,20995,no,2011,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,57,-20995,1954,no,no
+TCGA-22-1011,No,I,"Lung, NOS",53,SquamousCellCarcinoma,26732,no,2001,No,T2,8070/3,N0,M0,83,4.5479452054794525,white,not hispanic or latino,male,Dead,73,-26732,1928,no,no
+TCGA-68-8251,No,I,Lobes,406,SquamousCellCarcinoma,28739,no,2012,No,T2,8070/3,N0,M0,52,2.8493150684931505,white,hispanic or latino,male,Alive,78,-28739,1934,yes,no
+TCGA-52-7811,No,I,Lobes,NA,SquamousCellCarcinoma,24782,no,2009,No,T2,8070/3,N0,M0,50,2.73972602739726,white,hispanic or latino,male,Dead,67,-24782,1942,no,no
+TCGA-37-4129,No,I,Lobes,242,SquamousCellCarcinoma,19154,no,2010,No,T1,8070/3,N0,M0,30,1.643835616438356,white,not hispanic or latino,female,Alive,52,-19154,1958,no,no
+TCGA-37-4130,No,I,Lobes,247,SquamousCellCarcinoma,20652,no,2010,No,T1,8070/3,N0,M0,25,1.36986301369863,white,not hispanic or latino,male,Alive,56,-20652,1954,not reported,not reported
+TCGA-NC-A5HD,No,II,Lobes,NA,SquamousCellCarcinoma,28916,yes,2008,No,T3,8070/3,N0,M0,50,2.73972602739726,white,not reported,male,Dead,79,-28916,1929,no,no
+TCGA-58-8388,No,I,Lobes,378,Basaloid squamous cell carcinoma,21949,no,2010,No,T2,8083/3,N0,M0,80,4.383561643835616,white,not hispanic or latino,male,Dead,60,-21949,1950,no,no
+TCGA-77-8128,No,III,"Lung, NOS",NA,SquamousCellCarcinoma,21986,no,1999,No,T2,8070/3,N2,M0,113,6.191780821917808,not reported,not reported,male,Dead,60,-21986,1939,no,no
+TCGA-43-6647,No,II,Lobes,757,SquamousCellCarcinoma,25378,no,2010,No,T2,8070/3,N1,MX,36,1.9726027397260273,white,not hispanic or latino,female,Alive,69,-25378,1941,yes,no
+TCGA-58-8392,No,I,Lobes,NA,SquamousCellCarcinoma,25710,no,2010,No,T2,8070/3,N0,M0,80,4.383561643835616,white,not hispanic or latino,male,Dead,70,-25710,1940,yes,no
+TCGA-22-1002,No,I,"Lung, NOS",131,SquamousCellCarcinoma,25359,no,2001,No,T1,8070/3,N0,M0,85,4.657534246575342,white,not hispanic or latino,male,Dead,69,-25359,1932,no,no
+TCGA-90-7964,Not Reported,I,Lobes,428,SquamousCellCarcinoma,25646,yes,2011,No,T2,8070/3,N0,MX,180,9.863013698630137,white,not hispanic or latino,male,Alive,70,-25646,1941,no,no
+TCGA-NC-A5HI,No,I,Lobes,1743,SquamousCellCarcinoma,24981,no,2009,No,T2,8070/3,N0,M0,60,3.287671232876712,white,not reported,female,Alive,68,-24981,1941,yes,no
+TCGA-77-A5G6,No,III,Lobes,NA,SquamousCellCarcinoma,24215,no,2009,No,T2,8070/3,N2,M0,74,4.054794520547945,not reported,not reported,male,Dead,66,-24215,1943,no,no
+TCGA-60-2715,Not Reported,I,Lobes,NA,SquamousCellCarcinoma,18990,yes,2008,No,T1,8070/3,N0,M0,25,1.36986301369863,white,not hispanic or latino,male,Dead,51,-18990,1957,yes,yes
+TCGA-85-8288,No,II,Lobes,54,SquamousCellCarcinoma,25629,no,2011,No,T1,8070/3,N1,M0,50,2.73972602739726,white,not hispanic or latino,male,Dead,70,-25629,1941,no,no
+TCGA-18-3406,Not Reported,I,Lobes,NA,SquamousCellCarcinoma,24477,yes,2003,No,T1,8070/3,N0,M0,200,10.95890410958904,white,not hispanic or latino,male,Dead,67,-24477,1936,no,no
+TCGA-98-A53C,No,I,Lobes,822,SquamousCellCarcinoma,28146,no,2012,No,T1,8070/3,N0,M0,112.5,6.164383561643835,white,not hispanic or latino,female,Alive,77,-28146,1935,no,no
+TCGA-33-4547,No,I,Lobes,2419,SquamousCellCarcinoma,25056,no,2007,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,68,-25056,1939,no,no
+TCGA-66-2742,No,IV,Lobes,641,SquamousCellCarcinoma,25688,no,2006,No,T2,8070/3,N1,M1,44,2.410958904109589,not reported,not reported,male,Alive,70,-25688,1936,no,no
+TCGA-37-3792,No,I,Lobes,12,SquamousCellCarcinoma,25502,no,2006,No,T2,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,69,-25502,1937,not reported,not reported
+TCGA-56-8305,No,I,Lobes,105,SquamousCellCarcinoma,26428,yes,2011,No,T2,8070/3,N0,M0,100,5.47945205479452,white,not hispanic or latino,male,Alive,72,-26428,1939,not reported,not reported
+TCGA-18-5592,No,II,Lobes,1519,SquamousCellCarcinoma,21020,no,2010,No,T3,8070/3,N0,M0,40,2.191780821917808,not reported,not reported,male,Alive,57,-21020,1953,yes,yes
+TCGA-33-AASB,No,I,Lobes,NA,SquamousCellCarcinoma,24183,no,2002,No,T2,8070/3,N0,MX,40,2.191780821917808,black or african american,not hispanic or latino,male,Dead,66,-24183,1936,yes,no
+TCGA-85-7699,No,III,Lobes,1,SquamousCellCarcinoma,26965,no,2011,No,T4,8070/3,N0,M0,74,4.054794520547945,white,not hispanic or latino,male,Dead,73,-26965,1938,yes,no
+TCGA-21-5787,No,III,Lobes,329,SquamousCellCarcinoma,24071,no,2009,No,T2,8070/3,N2,M0,100,5.47945205479452,black or african american,not hispanic or latino,male,Dead,65,-24071,1944,no,yes
+TCGA-60-2721,Not Reported,I,Lobes,983,SquamousCellCarcinoma,27007,yes,2008,No,T2,8070/3,N0,M0,93,5.095890410958904,white,not hispanic or latino,male,Alive,73,-27007,1935,no,no
+TCGA-66-2773,No,I,Lobes,NA,SquamousCellCarcinoma,25355,no,2007,No,T2,8070/3,N0,M0,58,3.1780821917808217,not reported,not reported,male,Dead,69,-25355,1938,not reported,not reported
+TCGA-18-3409,Not Reported,I,Lobes,3747,Basaloid squamous cell carcinoma,27154,yes,2004,No,T1,8083/3,N0,M0,20,1.095890410958904,white,not hispanic or latino,male,Alive,74,-27154,1930,no,no
+TCGA-46-3765,No,I,Lobes,405,SquamousCellCarcinoma,21762,no,2009,No,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,female,Alive,59,-21762,1950,no,no
+TCGA-77-6845,No,II,Lobes,NA,SquamousCellCarcinoma,25321,no,2003,No,T3,8070/3,N0,M0,51,2.7945205479452055,white,not reported,male,Dead,69,-25321,1934,no,no
+TCGA-37-4141,No,I,Lobes,12,SquamousCellCarcinoma,24048,no,2010,No,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,female,Alive,65,-24048,1945,not reported,not reported
+TCGA-63-7022,No,I,Lobes,2073,SquamousCellCarcinoma,NA,no,2007,No,T1,8070/3,N0,M0,30,1.643835616438356,not reported,not reported,female,Alive,NA,NA,NA,no,no
+TCGA-34-5231,No,I,Lobes,1528,SquamousCellCarcinoma,26525,no,2006,No,T1,8070/3,N0,M0,50,2.73972602739726,white,not hispanic or latino,male,Dead,72,-26525,1934,no,no
+TCGA-56-7223,No,III,Overlapping lesion of lung,30,SquamousCellCarcinoma,24288,no,2011,No,T3,8070/3,N1,MX,NA,NA,white,not hispanic or latino,male,Dead,66,-24288,1945,yes,no
+TCGA-33-4532,Not Reported,I,Lobes,2524,SquamousCellCarcinoma,25169,yes,2001,No,T2,8070/3,N0,M0,53,2.904109589041096,white,not hispanic or latino,male,Dead,68,-25169,1933,no,no
+TCGA-33-AASD,No,I,Lobes,NA,SquamousCellCarcinoma,30623,no,2001,No,T1,8070/3,N0,MX,84,4.602739726027397,black or african american,not hispanic or latino,male,Dead,83,-30623,1918,no,no
+TCGA-39-5039,Not Reported,II,Lobes,544,SquamousCellCarcinoma,27781,yes,2008,No,T2,8070/3,N0,M0,64,3.506849315068493,white,not reported,male,Dead,76,-27781,1932,no,no
+TCGA-85-8351,No,II,Lobes,510,SquamousCellCarcinoma,26437,no,2011,No,T2,8070/3,N1,M0,60,3.287671232876712,white,not hispanic or latino,male,Alive,72,-26437,1939,yes,no
+TCGA-22-1017,Not Reported,I,"Lung, NOS",NA,SquamousCellCarcinoma,22880,yes,1999,Yes,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Dead,62,-22880,1937,yes,yes
+TCGA-NC-A5HN,No,II,Lobes,1499,SquamousCellCarcinoma,28151,no,2010,No,T2,8070/3,N1,M0,100,5.47945205479452,white,not reported,male,Alive,77,-28151,1933,no,no
+TCGA-22-1000,Not Reported,I,"Lung, NOS",NA,SquamousCellCarcinoma,27901,yes,2000,No,T2,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Dead,76,-27901,1924,no,no
+TCGA-56-5898,No,I,Lobes,555,SquamousCellCarcinoma,25441,no,2010,No,T1,8070/3,N0,M0,NA,NA,white,not hispanic or latino,male,Alive,69,-25441,1941,no,no
+TCGA-60-2711,Not Reported,I,"Lung, NOS",1260,SquamousCellCarcinoma,23651,yes,2007,No,T2,8070/3,N0,M0,39,2.136986301369863,white,not hispanic or latino,female,Alive,64,-23651,1943,no,no
+TCGA-85-8052,No,II,Lobes,734,SquamousCellCarcinoma,19671,no,2011,No,T3,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,53,-19671,1958,no,no
+TCGA-18-3412,No,I,Lobes,NA,SquamousCellCarcinoma,19025,no,2005,No,T2,8070/3,N0,M0,25,1.36986301369863,white,not hispanic or latino,male,Dead,52,-19025,1953,yes,no
+TCGA-63-A5MW,No,I,Lobes,1639,SquamousCellCarcinoma,27892,no,NA,No,T2,8070/3,N0,M0,60,3.287671232876712,not reported,not reported,male,Alive,76,-27892,NA,no,no
+TCGA-85-8072,No,I,Lobes,932,SquamousCellCarcinoma,22069,no,2011,No,T1,8070/3,N0,M0,15,0.821917808219178,white,not hispanic or latino,male,Alive,60,-22069,1951,no,no
+TCGA-O2-A52N,No,I,Lobes,NA,SquamousCellCarcinoma,28520,no,2005,No,T2,8070/3,N0,MX,4.125,0.22602739726027396,white,not hispanic or latino,male,Dead,78,-28520,1927,no,no
+TCGA-60-2716,No,II,"Lung, NOS",1475,SquamousCellCarcinoma,14345,no,2007,No,T2,8070/3,N1,M0,NA,NA,not reported,not hispanic or latino,male,Alive,39,-14345,1968,yes,no
+TCGA-43-6143,No,I,Lobes,699,Basaloid squamous cell carcinoma,25820,no,2010,No,T2,8083/3,N0,M0,114,6.2465753424657535,white,not hispanic or latino,male,Alive,70,-25820,1940,yes,no
+TCGA-63-7020,No,I,Lobes,2133,SquamousCellCarcinoma,NA,no,2007,No,T1,8070/3,N0,M0,50,2.73972602739726,not reported,not reported,male,Alive,NA,NA,NA,no,no
+TCGA-18-4083,Not Reported,II,Lobes,NA,SquamousCellCarcinoma,23125,yes,2005,No,T2,8070/3,N1,M0,45,2.4657534246575343,white,not hispanic or latino,male,Dead,63,-23125,1942,yes,no
+TCGA-56-8304,No,I,Lobes,106,SquamousCellCarcinoma,26803,no,2011,No,T1,8070/3,N0,MX,58,3.1780821917808217,white,not reported,female,Alive,73,-26803,1938,not reported,not reported
+TCGA-33-4566,No,I,Lobes,NA,SquamousCellCarcinoma,14643,no,1996,No,T2,8070/3,N0,M0,20,1.095890410958904,white,not hispanic or latino,male,Dead,40,-14643,1956,not reported,not reported
+TCGA-39-5021,No,I,Lobes,2086,SquamousCellCarcinoma,25895,no,2004,No,T2,8070/3,N0,M0,114,6.2465753424657535,white,not hispanic or latino,male,Dead,70,-25895,1934,no,no
+TCGA-22-4596,No,I,Lobes,17,SquamousCellCarcinoma,25448,no,2002,No,T1,8070/3,N0,M0,40,2.191780821917808,white,not reported,female,Dead,69,-25448,1933,no,no
+TCGA-56-8201,No,II,Lobes,28,SquamousCellCarcinoma,27211,yes,2011,No,T3,8070/3,N0,MX,NA,NA,white,not hispanic or latino,male,Dead,74,-27211,1937,no,no
+TCGA-51-6867,Not Reported,I,Lobes,NA,SquamousCellCarcinoma,26523,yes,2003,No,T1,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,female,Dead,72,-26523,1931,no,no
+TCGA-66-2783,No,III,Lobes,759,SquamousCellCarcinoma,24686,no,2008,No,T2,8070/3,N3,M0,65,3.5616438356164384,not reported,not reported,male,Alive,67,-24686,1941,yes,yes
+TCGA-77-8007,No,II,Lobes,NA,SquamousCellCarcinoma,25102,no,2001,No,T2,8070/3,N1,M0,100,5.47945205479452,not reported,not reported,male,Dead,68,-25102,1933,not reported,not reported
+TCGA-98-8021,No,I,Lobes,937,SquamousCellCarcinoma,27738,no,2011,No,T1,8070/3,N0,M0,60,3.287671232876712,white,not hispanic or latino,female,Alive,75,-27738,1936,no,no
+TCGA-22-4613,No,I,Lobes,358,SquamousCellCarcinoma,26722,no,2004,No,T1,8070/3,N0,M0,30,1.643835616438356,white,not reported,female,Dead,73,-26722,1931,no,no
+TCGA-18-3411,No,III,Lobes,3576,SquamousCellCarcinoma,23370,no,2005,No,T2,8070/3,N2,M0,50,2.73972602739726,not reported,not reported,female,Alive,63,-23370,1942,yes,yes
+TCGA-85-A4CL,No,I,Lobes,781,SquamousCellCarcinoma,24005,no,2012,No,T1,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Dead,65,-24005,1947,no,no
+TCGA-43-3394,No,I,Lobes,822,SquamousCellCarcinoma,19310,no,2009,No,T2,8070/3,N0,M0,15,0.821917808219178,black or african american,not hispanic or latino,male,Dead,52,-19310,1957,yes,no
+TCGA-66-2765,No,I,Lobes,61,SquamousCellCarcinoma,23465,no,2007,No,T2,8070/3,N0,M0,108,5.917808219178082,not reported,not reported,male,Alive,64,-23465,1943,not reported,not reported
+TCGA-85-8584,No,II,Lobes,0,Papillary squamous cell carcinoma,26081,no,2012,No,T2,8052/3,N1,M0,50,2.73972602739726,white,not hispanic or latino,male,Dead,71,-26081,1941,not reported,not reported
+TCGA-60-2726,No,II,Lobes,358,SquamousCellCarcinoma,20618,no,2009,No,T2,8070/3,N1,M0,42,2.3013698630136985,white,not hispanic or latino,male,Dead,56,-20618,1953,no,no
+TCGA-37-4133,No,III,"Lung, NOS",238,SquamousCellCarcinoma,23083,no,2010,No,T4,8070/3,N0,M0,40,2.191780821917808,white,not hispanic or latino,male,Alive,63,-23083,1947,not reported,not reported
+TCGA-85-A53L,No,II,Lobes,377,SquamousCellCarcinoma,23065,no,2012,No,T2,8070/3,N0,M0,30,1.643835616438356,asian,not hispanic or latino,male,Alive,63,-23065,1949,no,no
+TCGA-85-6175,No,II,Lobes,0,SquamousCellCarcinoma,23228,no,2010,No,T3,8070/3,N0,M0,NA,NA,white,not hispanic or latino,female,Dead,63,-23228,1947,no,no
+TCGA-70-6723,No,II,Lobes,375,Papillary squamous cell carcinoma,24035,no,2010,No,T3,8052/3,N0,M0,NA,NA,asian,not hispanic or latino,male,Alive,65,-24035,1945,no,yes
